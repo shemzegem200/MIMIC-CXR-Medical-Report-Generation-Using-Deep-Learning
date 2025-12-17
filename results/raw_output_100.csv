@@ -1,0 +1,1686 @@
+img1_path,img2_path,ground_truth,generated_report
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17989167\s54431477\5abcd7e9-391b3cb9-ebdccfcf-67a08b6e-46b4b32a.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17989167\s54431477\6b1ead2b-672422ef-eeeae424-c8f8b5ef-420b359a.jpg,"WET READ: ___ ___ 5:20 AM
+  
+  1. Minimally displaced fracture of the distal clavicle.
+  2. No acute displaced rib fractures.
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  History: ___M with mechanical fall, distal clavicle fx and small
+ SAH  // ?traumatic injuries
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  Chest radiographs dated ___ through ___ and
+ CT chest dated ___.
+ 
+ FINDINGS: 
+ 
+ The lungs are well-expanded and clear.  Cardiomediastinal and hilar contours
+ are unchanged.  The aorta is tortuous.  There is no pneumothorax, pleural
+ effusion or consolidation.  No acute displaced rib fractures identified. 
+ Known fracture through the distal clavicle demonstrates minimal superior
+ displacement of the distal fracture fragment.
+ 
+ IMPRESSION:
+ 
+ 
+ 1. Minimally displaced fracture of the distal clavicle.
+ 2. No acute displaced rib fractures.","pa and lateral views of the chest provided. midline sternotomy wires and mediastinal clips are again noted. there are small bilateral pleural effusions with associated compressive atelectasis at the bases and right base. there is no definite focal consolidation. there is no evidence of pneumothorax. cardiomediastinal silhouette appears unchanged. overall,"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15884351\s59052502\0242c97a-6a169949-ea13719a-2c81265a-009bd91e.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15884351\s59052502\0242c97a-6a169949-ea13719a-2c81265a-009bd91e.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man in ICU intubated with ?PNA  // interval change
+ 
+ COMPARISON:  ___.
+ 
+ IMPRESSION: 
+ 
+ As compared to the previous radiograph, the patient remains intubated.  Low
+ lung volumes. The opacities, likely atelectatic in origin, at the right lung
+ bases are unchanged. Also unchanged is the minimal blunting of the right
+ costophrenic sinus, potentially caused by a small right pleural effusion. No
+ overt pulmonary edema. No pathologic changes in the left lung.  Unchanged
+ appearance of the mediastinum and the cardiac silhouette.","right chest tube has been removed. large left pleural effusion has increased, with new partial right lower lobe atelectasis, probably present. additional areas of nodular opacities are seen in the right upper lung and interval improvement. mild pulmonary edema has slightly improved since _ _ _. left lower lobe atelectasis has mildly worsened since prior. small bilateral pleur"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10033552\s58734596\0f9a2df4-9ad1c576-b93d24c4-4b89e43a-af15a46f.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10033552\s58734596\f0c76dd6-aae11ffd-7fb9e184-b9b42d5b-b3764744.jpg,"FINAL REPORT
+ HISTORY:  Fatigue, evaluate for infiltrate.
+ 
+ COMPARISON:  Chest radiograph ___.
+ 
+ FINDINGS: Frontal and lateral views of the chest were performed.  The cardiac
+ silhouette is top normal in size.  The mediastinal and hilar structures are
+ normal.  The lung volumes are low, however, there is no focal consolidation,
+ pleural effusion or pneumothorax.  The pulmonary vasculature is normal.  The
+ imaged upper abdomen is unremarkable.
+ 
+ IMPRESSION: No acute cardiopulmonary process.","ap and lateral views of the chest. right chest wall port - a - cath is seen with catheter tip at the lower svc. the heart is moderately enlarged. mild pulmonary edema is noted, with increased left lower lobe opacity which is most likely due to atelectasis although although aspiration cannot be entirely excluded. no focal consolidation is seen. there is no p"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14889848\s59792494\18e5e1b4-13e4c6ba-99e2b037-2c25e802-9087284d.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14889848\s59792494\1f7fde4b-316f24b3-72205b32-a52b8ba8-51e3281c.jpg,"PROVISIONAL FINDINGS IMPRESSION (PFI): ___ ___ ___ 11:07 AM
+  Normal chest radiograph.
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  Chest pain.
+ 
+ COMPARISON:  Chest x-ray on ___.
+ 
+ FINDINGS:  PA and lateral radiographs of the chest demonstrate a normal
+ cardiomediastinal silhouette.  The lungs are clear without pneumothorax,
+ vascular congestion, or pleural effusion.
+ 
+ IMPRESSION:  Normal chest radiograph.",the lungs are well inflated and clear. the heart size is normal. the mediastinal contours are normal. there are no pleural effusions. no pneumothorax is seen. mild loss of height of a lower thoracic vertebral body is also stable. there is elevation of left clavicular fracture of the fracture of the distal right hume
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14766138\s53273174\04fda60c-cb2b85de-6ef111a0-572bf01c-2255e82b.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14766138\s53273174\b8bedcb3-85ef25f1-edce285a-d2bb07d1-441c06c9.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PA AND LAT)
+ 
+ INDICATION:  History: ___F with exertional chest pain
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  Chest radiograph ___, CT chest ___
+ 
+ FINDINGS: 
+ 
+ Heart size is normal.  Mediastinal and hilar contours are unchanged with the
+ aorta appearing mildly tortuous.  Pulmonary vasculature is not engorged. 
+ Streaky opacity in the right middle lobe is slightly more pronounced in the
+ interval, compatible with subsegmental atelectasis.  Left lung is clear.  No
+ focal consolidation, pleural effusion or pneumothorax is seen.  Scattered
+ calcified granulomas are again noted in the lung bases.  There is no pleural
+ effusion or pneumothorax.  Cholecystectomy clips are noted in the right upper
+ quadrant of the abdomen.  Loss of height of an upper/mid thoracic vertebral
+ body appears unchanged.
+ 
+ IMPRESSION: 
+ 
+ Increase streaky right middle lobe opacity likely reflective of subsegmental
+ atelectasis.",there are bibasilar opacities likely due to atelectasis. there is no pleural effusion or pneumothorax. the cardiac and mediastinal silhouettes are stable and stable. calcifications are seen in the aortic arch. no focal consolidation is seen. there is no acute osseous abnormality. sclerotic les
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17454111\s51733336\52c3ec71-9923ba4b-13ab421e-d1462abf-840613d2.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17454111\s51733336\671337bf-4c25c5f5-ae2e964a-93366b4c-4ad697db.jpg,"FINAL REPORT
+ INDICATION:   ___M with fall, orthopnea  // r/o CHF, fx, ich
+ 
+ TECHNIQUE:  Frontal and lateral views of the chest.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS: 
+ 
+ Lungs are relatively hyperinflated. Left midlung pleural-based scarring is
+ again seen. The lungs are clear of consolidation effusion, or vascular
+ congestion. The cardiomediastinal silhouette is within normal limits. No acute
+ osseous abnormalities identified.
+ 
+ IMPRESSION: 
+ 
+ No acute cardiopulmonary process.","there is no focal consolidation, pleural effusion, or pneumothorax. cardiomediastinal silhouette is within normal limits. no acute osseous abnormalities identified. no free intraperitoneal air is present. incidental note is made of the gastric contrast material on the lateral view. mild fluid overload is mild - to - scoliosis"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11493185\s59449283\4f2b5dc1-10852789-88324d17-c3ec3e42-2451f98c.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11493185\s59449283\4f2b5dc1-10852789-88324d17-c3ec3e42-2451f98c.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man with LLL mass sp sup segmentectomy  // eval ct
+ palcement
+ 
+ IMPRESSION: 
+ 
+ As compared to ___ radiograph, the patient has undergone
+ segmentectomy on the left.  A left chest tube makes an abrupt turn inferiorly
+ at the level of the aortic arch, with distal tip at the level just above the
+ left hemidiaphragm.  There is no visible pneumothorax or significant pleural
+ effusion on the left.  Worsening right basilar opacity is accompanied by a
+ small right pleural effusion.","a right - sided picc is slightly bent which projects over the distal svc. there is again seen right basal atelectasis, and the heart size is unchanged. there are slightly lower lobe atelectasis, but there is no evidence of vascular congestion or pulmonary edema. there is no focal consolidation, pleural effusion, or pneumothorax. a"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19217413\s55593182\be4f0488-2c628025-64bd5122-f4cc0550-bf967d80.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19217413\s55593182\d951de2f-d8a7beb7-a77f9a13-5dac4fff-10dd3d6a.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PA AND LAT)
+ 
+ INDICATION:  ___M with 1 day CP, SOB, hx HIV.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS: 
+ 
+ PA and lateral views of the chest provided. There is no focal consolidation,
+ effusion, or pneumothorax. The cardiomediastinal silhouette is normal. Imaged
+ osseous structures are intact.  No free air below the right hemidiaphragm is
+ seen.
+ 
+ IMPRESSION: 
+ 
+ No acute intrathoracic process.","frontal and lateral views of the chest were obtained. no focal consolidation, pleural effusion or pneumothorax. hilar and mediastinal silhouettes are unremarkable. heart size is normal. there is no pulmonary edema. cervical spinal hardware is partially visualized. clips are seen at the right ac joint. imaged osseous structures are intact."
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15103745\s53690722\e6430e5e-5349f7e3-ac9c416e-b0c0936a-889cc004.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15103745\s53690722\e6430e5e-5349f7e3-ac9c416e-b0c0936a-889cc004.jpg,"WET READ: ___ ___ 8:10 AM
+  
+  
+  
+  NG tube passes into the abdomen and off the inferior edge of the image.
+  Otherwise unchanged exam.--___
+ WET READ VERSION #___ ___ ___ 9:14 PM
+  NG tube passes into the abdomen and off the inferior edge of the image.
+  Otherwise unchanged exam.--___
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old woman with resp failure, ETT in situ. OGT disloged,
+ replaced w NGT.  // eval NGT placement      eval NGT placement
+ 
+ COMPARISON:  Comparison to prior study dated ___ at 05:55
+ 
+ IMPRESSION: 
+ 
+ Nasogastric tube is seen coursing below the diaphragm with the tip not
+ identified. Endotracheal tube and right internal jugular central line are
+ unchanged in position given differences in patient positioning.  Given the
+ marked patient rotation, assessment of cardiac and mediastinal contours is
+ difficult. There continues to be bilateral layering effusions with associated
+ patchy bibasilar airspace disease likely reflecting atelectasis, although
+ pneumonia cannot be excluded.  Interval appearance of a patchy opacity in the
+ right mid lung of uncertain significance. This can be further evaluated on
+ followup imaging. Stable 3 mm nodular opacity in the left upper lobe unchanged
+ since ___ and therefore consistent with a benign finding.  No pneumothorax.","single supine ap portable view of the chest was obtained. on the frontal view, there is a new air fluid level at the gastroesophageal junction and then the stomach or remains out of the field of view. a bibasilar opacities persist, and slight increase in the right lung has increased since prior study. small right pleural effusion is seen"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11790326\s54780722\27ef72ac-cbdb22c3-db2ebbad-c9be7e65-0e796af9.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11790326\s54780722\b9e8abce-9ac5906a-1180ef74-7a1d4e72-938033c3.jpg,"FINAL REPORT
+ EXAMINATION:  Chest radiographs.
+ 
+ INDICATION:  History: ___F with dyspnea  // Eval for pna vs pulmonary edema
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  Chest radiographs:  ___, ___.
+ 
+ FINDINGS: 
+ 
+ The lungs are relatively well inflated and grossly clear.  Chronic bilateral
+ hilar fullness is again noted, with a similar degree of mild pulmonary
+ vascular congestion as seen on the prior study.  There is no overt pulmonary
+ edema, pleural effusion, pneumothorax, or focal consolidation.  Severe
+ cardiomegaly is unchanged.
+ 
+ IMPRESSION: 
+ 
+ Severe cardiomegaly and mild pulmonary vascular congestion.","mild to moderate cardiomegaly is unchanged. the aorta is tortuous. mediastinal and hilar contours are otherwise unchanged, and the pulmonary vasculature is not engorged. no focal consolidation is seen. minimal atelectasis / scarring is seen in the mid lung apices and right middle lobe. there is no pleural effusion"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17197822\s56755633\06da8bd0-0d45d01b-44f72d23-33aaf7a6-8115bcb0.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17197822\s56755633\06da8bd0-0d45d01b-44f72d23-33aaf7a6-8115bcb0.jpg,"FINAL REPORT
+ SINGLE FRONTAL VIEW OF THE CHEST
+ 
+ REASON FOR EXAM:  Assess re-position of NG tube.   
+ 
+ Comparison is made with prior study performed six hours earlier.  
+ 
+ NG tube has been re-positioned.  The tip is not included in the film, but is
+ most likely in the stomach.  The side port is in the stomach.  There are other
+ interval changes including a right lower lobe aspiration pneumonia and
+ collapse in the left lower lobe.","single frontal view of the chest was obtained. low lung volumes are extremely low. heart size is normal. mediastinal and hilar contours are unremarkable. no pulmonary edema. no focal consolidation, pleural effusion, or pneumothorax. mild to moderate degenerative changes noted along the right mid - to - _ _ _ and therefore"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14954046\s52768172\2c97286d-c5da3d3d-3ac65bb4-61c120a8-33e392aa.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14954046\s52768172\2c97286d-c5da3d3d-3ac65bb4-61c120a8-33e392aa.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old woman admitted for hysterectomy now with respiratory
+ distress  // Concern for worsening pulmonary edema, fluid overload
+ 
+ COMPARISON:  ___.
+ 
+ IMPRESSION: 
+ 
+ As compared to the previous radiograph, no relevant change is seen.  The left
+ PICC line and the right pigtail catheter are in constant position.  Minimally
+ increasing retrocardiac atelectasis.  Unchanged mild to moderate pulmonary
+ edema.  Lobar lung volumes persist.  No new focal parenchymal opacities.","left lower lobe consolidation has increased. again, there has been interval improvement in the bilateral lung consolidations as with the previous suggestion of aspiration or that since the prior study, findings in the lower lobe area of consolidation. new or left - sided atelectasis. the cardiac silhouette is difficult to assess due to mild pulmonary edema, pleural effusions, right greater than right,"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17792822\s53549500\d82c6a3e-d8e1295f-68a5eb04-9d518ba1-9c8d270f.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17792822\s53549500\d82c6a3e-d8e1295f-68a5eb04-9d518ba1-9c8d270f.jpg,"FINAL REPORT
+ HISTORY:  Pneumothorax.
+ 
+ FINDINGS:  In comparison with the earlier study of this date, there is again
+ extensive subcutaneous gas along the right lateral chest wall.  Right chest
+ tube is in place.  If there is a pneumothorax, it is quite small.
+ 
+ Some retrocardiac opacification suggests atelectatic change.  No convincing
+ evidence of pulmonary vascular congestion or enlargement of the cardiac
+ silhouette.","left chest wall pacemaker with intact leads in the right atrium and right ventricle. no pneumothorax. right pleural catheter remains in place, similar since yesterday ' s exam. cardiomediastinal and hilar contours are stable. pacer device is noted with leads in the right atrium and right ventricle. limited assessment of the"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16419065\s57619457\59845bb9-1ae33da6-a0c64787-f8cc2180-a1e7645c.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16419065\s57619457\beac5551-95527cc7-d5287601-f0998987-ab9e3303.jpg,"FINAL REPORT
+ HISTORY:  Port-A-Cath placement.
+ 
+ FINDINGS:  The tip of the Port-A-Cath lies in the lower portion of the SVC. 
+ No evidence of acute cardiopulmonary disease or appreciable change from
+ ___.","heart size is normal. mediastinal and hilar contours are within normal limits. pulmonary vasculature is normal. lung volumes are low. streaky atelectasis is seen in the lower lungs. no focal consolidation, pleural effusion or pneumothorax is seen. there is minimal left base atelectasis without definite acute osseous"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16458160\s52753884\383e6d8d-789f31b7-d2b705de-eb11028b-10c00c83.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16458160\s52753884\383e6d8d-789f31b7-d2b705de-eb11028b-10c00c83.jpg,"FINAL REPORT
+ SINGLE FRONTAL VIEW OF THE CHEST
+ 
+ REASON FOR EXAM:  Follow up pneumothorax, patient with drop in blood pressure.
+ 
+ Comparison is made with prior study performed five hours earlier.
+ 
+ There has been no change in right pneumothorax seen in the lower hemithorax. 
+ Adjacent lung opacity is stable.  Basal right chest tube is in unchanged
+ position.  Small right effusion has decreased.  There has been interval
+ improvement in aeration of the right upper lung.  Cardiomediastinal contours
+ are unchanged.  The left lung again demonstrates ill-defined perihilar and
+ retrocardiac opacities, better seen in prior CT, and there is no left effusion
+ or left pneumothorax.  Cardiac lead is in standard position.","the dobbhoff tube is in the proximal stomach with the sideport its tip projects over the gastric fundus. ng tube extends below the diaphragm with the tip in the esophagus. advancement was discussed with the aortic valve and dictation. on _ _ _, the referring physician, _ _ _. _ _ _, 9 : 30 a"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12576058\s58297399\568f5274-fc790d60-92e1899d-75a9fe2f-93b697c8.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12576058\s58297399\568f5274-fc790d60-92e1899d-75a9fe2f-93b697c8.jpg,"WET READ: ___ ___ 10:20 PM
+  Lung volumes are slightly low resulting in crowding of the bronchovascular
+  structures.  Bibasilar opacities are present, worse on the right.  While this
+  may represent atelectasis, superimposed infection is also possible.  
+  
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ HISTORY:  Increased work of breathing, to assess for vascular congestion or
+ pneumonia.
+ 
+ FINDINGS:  In comparison with study of ___, there is increase in ill-defined
+ pulmonary vessels, consistent with some pulmonary vascular congestion.  A more
+ focal area of opacification at the right base could conceivably represent a
+ developing infiltrate in the appropriate clinical setting.
+ 
+ Blunting of the costophrenic angles with mild atelectatic changes at the
+ bases.",the patient has been intubated. the cardiac silhouette remains top - normal to mildly enlarged. no pulmonary edema. no focal consolidation. no pleural effusions. no pneumothorax. an right basilar opacity could reflect small right pleural effusion. right lung base opacities are unchanged. no pneumothorax. the
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13280844\s52211052\7d13c7b6-d118f793-b74a1c83-e0d71b41-76410cc2.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13280844\s52211052\7d13c7b6-d118f793-b74a1c83-e0d71b41-76410cc2.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  History: ___M with PICC
+ 
+ TECHNIQUE:  Portable upright AP view of the chest
+ 
+ COMPARISON:  ___
+ 
+ FINDINGS: 
+ 
+ Left PICC tip terminates in the upper SVC.  Lung volumes are low.  Heart size
+ is moderately enlarged but unchanged.  The mediastinal and hilar contours are
+ similar with crowding of the bronchovascular structures noted.  While there
+ may be mild pulmonary vascular congestion, no overt pulmonary edema is
+ demonstrated.  Small bilateral pleural effusions are likely present with
+ chronic elevation of the right hemidiaphragm again noted.  Bibasilar
+ atelectasis is present, more pronounced on the right.  No pneumothorax is
+ identified.
+ 
+ IMPRESSION: 
+ 
+ Left PICC tip in the upper SVC.  Low lung volumes.  Probable mild pulmonary
+ vascular congestion and small bilateral pleural effusions with bibasilar
+ atelectasis.",mild bibasilar atelectasis has improved since _ _ _. there is no focal consolidation. there is no pleural effusion or pneumothorax. the cardiac and mediastinal silhouettes are stable. partially imaged left hemithorax is noted. thoracic dextroscoliosis. no evidence of free air. anterior chest wall over
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19048729\s54502198\2fa3400f-cc96f8f4-3f454ad1-bb2cb3e9-61c19051.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19048729\s54502198\2fa3400f-cc96f8f4-3f454ad1-bb2cb3e9-61c19051.jpg,"FINAL REPORT
+ INDICATION:  ___ year old man with new NGT.  // ? NGT placement, ? worsening
+ ARDS
+ 
+ COMPARISON:  Chest radiographs from approximately 3 hours prior, 6 hours
+ prior, and 10 hours prior on the same day.
+ 
+ FINDINGS: 
+ 
+ A portable semi upright frontal chest radiograph again demonstrates an
+ endotracheal tube terminating in mid thoracic trachea and an enteric tube
+ terminating within the stomach.  Bilateral pulmonary opacities continue to
+ increase.  There is a new small to moderate right pleural effusion and
+ possible trace left pleural effusion.  There is no pneumothorax.  The
+ visualized upper abdomen is unremarkable.
+ 
+ IMPRESSION:
+ 
+ 
+ 1. Continued increase in bilateral pulmonary opacities, possibly/pulmonary
+ edema or ARDS, although multifocal pneumonia is also a consideration in the
+ right clinical setting.
+ 2. New small to moderate right pleural effusion.  Of note, pleural effusions
+ are less commonly seen in ARDS.","portable upright chest radiograph _ _ _ at 15 : 22 is submitted. endotracheal tube terminates approximately 3. 3 cm above the carina, as far. cardiomediastinal contours are stable. left picc line tip in the mid svc. bibasilar opacities, right greater than left, are consistent with aspiration.. no focal"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19259547\s50808257\d5cc5bf6-d16e083b-9cc8c90b-cd4c06b8-c60642f2.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19259547\s50808257\ed66b1dd-095b68d9-55e1b3c7-4662bdf3-283a2b0f.jpg,"FINAL REPORT
+ TYPE OF EXAMINATION:  Chest PA and lateral.
+ 
+ INDICATION:  ___-year-old male patient status post sigmoid colectomy presents
+ with crackles at the bases, evaluate for fluid.
+ 
+ PA and lateral chest views were obtained with patient in upright position. 
+ The heart size is normal.  No configurational abnormalities are present. 
+ Thoracic aorta and mediastinal structures are unremarkable.  The pulmonary
+ vasculature is normal.  No signs of acute or chronic parenchymal infiltrates
+ are present and the lateral and posterior pleural sinuses are free.  No
+ evidence of pneumothorax in the apical area on the frontal view.  Skeletal
+ structures grossly within normal limits.  Moderately gas-distended large bowel
+ loops are noted, elevating mildly the left-sided hemidiaphragms but again no
+ pulmonary abnormality is identified.
+ 
+ IMPRESSION:  Chest findings within normal limits.  Question for fluid is
+ interpreted as ruling out pulmonary congestion or edema.  If not, specify
+ question.","frontal and lateral views of the chest demonstrate normal heart size, mediastinal and hilar contours. normal hilar contours. no pneumothorax, pleural effusion, or focal consolidation. left - sided deformity noted over multiple bilateral rib fractures, unchanged from _ _ _. surgical clips in the left upper quadrant also appears stable. chronic def"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13250012\s58759643\fa95d640-a6bc0a54-8cbfb9b8-11c23def-fb3b3088.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13250012\s58759643\fa95d640-a6bc0a54-8cbfb9b8-11c23def-fb3b3088.jpg,"FINAL REPORT
+ INDICATION:  ___-year-old male with fever, please rule out for pneumonia.
+ 
+ COMPARISON:  No prior studies available for comparison.
+ 
+ FINDINGS:  Single chest AP radiograph demonstrates a calcified, tortuous
+ aorta.  Otherwise, the mediastinal, hilar, and cardiac contours are
+ unremarkable.  A very faint opacity in the left lower lung likely represents
+ atelectasis, though in the appropriate clinical setting cannot exclude early
+ pneumonia.  No pleural effusion or pneumothorax evident.  
+ 
+ IMPRESSION:  Faint left base opacity represents most likely atelectasis but an
+ early pneumonia can not be excluded in appropriate clinical setting.",lung volumes are low. cardiac size is normal. mediastinal and hilar contours are within normal limits. pulmonary vasculature is normal. lung volumes remain low and no focal consolidation. no pleural effusion or pneumothorax is present. there are no acute osseous abnormalities. visualized upper abdomen is unremarkable. moderate to severe
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13299285\s53290173\2980ad18-08538625-a64aa5e9-7ad5a281-56dd2538.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13299285\s53290173\2980ad18-08538625-a64aa5e9-7ad5a281-56dd2538.jpg,"FINAL REPORT
+ TYPE OF EXAMINATION:  Chest, AP portable single view.
+ 
+ INDICATION:  ___-year-old male patient with bilateral pleural effusions, status
+ post bilateral thoracocentesis, now with increased shortness of breath. 
+ Evaluate for possible reaccumulation of pleural effusions.
+ 
+ FINDINGS:  AP single view of the chest has been obtained with patient in
+ semi-upright position.  Comparison is made with the next preceding similar
+ study obtained on ___.  On the preceding examination, the reduction
+ of the right-sided lower densities were indicative of successful right-sided
+ thoracocentesis in comparison with a chest examination of ___.  The
+ left-sided base did not show any significant interval change.  No evidence of
+ apical pneumothorax was found on either side.  Position of left-sided PICC
+ line was unremarkable.  On the present portable chest examination, pulmonary
+ vascular congestive pattern has increased again.  There is now an increasing
+ haze on the right base suggestive of some increased pleural effusion probably
+ layering in the posterior pleural compartments as the patient is in semi-erect
+ position only.  On the left base, increasing diaphragmatic contour haze exists
+ and most likely the patient developed again bilateral pleural effusions.  A
+ lateral view could better answer the question if significant pleural effusion
+ exists requiring renewed thoracocentesis.  No pneumothorax is identified on
+ the present examination.","as compared to the previous radiograph, there is no relevant change. no evidence of pneumonia, no pulmonary edema. normal lung volumes. no evidence of pneumonia. borderline size of the cardiac silhouette. mild tortuosity of the thoracic aorta. at the time of dictation and observation, 1 : 23 p. m., on _ _ _, the referring physician,"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11040157\s58724049\a04ff38b-60e51be8-381430cd-f90ec391-aaf4786e.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11040157\s58724049\a04ff38b-60e51be8-381430cd-f90ec391-aaf4786e.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old woman s/p extuabtion  // interval change     
+ interval change
+ 
+ IMPRESSION: 
+ 
+ Compared to prior chest radiographs ___ through ___ at 06:09.
+ 
+ As expected, following tracheal extubation, lung volumes are lower, and
+ pulmonary vasculature is more engorged.  Moderate enlargement of the cardiac
+ silhouette and mediastinal venous engorgement are stable.  No pneumothorax. 
+ Pleural effusion is presumed but not substantial.","the lung volumes are decreased. the vascular engorgement is the improved but no evidence of pulmonary edema. the right lung is clear. the cardiomediastinal silhouette is unchanged. no pleural effusions. unchanged, mild pulmonary edema. unchanged, mediastinal surgical clips and the left lung remains normal. mild cardiomegaly unchanged. unchanged hilar engorg"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p18\p18143542\s50415250\34d1caf6-135036b7-c6977f90-e414bb68-dfd2eaeb.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p18\p18143542\s50415250\93456587-52845282-9f9b0ed0-bd85b313-fd2ca2e9.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man with gastric volvulus vs outlet obstruction,
+ placing ng for decompression  // ng placement     ng placement
+ 
+ IMPRESSION: 
+ 
+ NG tube tip is in the very proximal stomach and should be further
+ substantially advanced.  Stomach continues to be severely distended.
+ 
+ Bibasal atelectasis is minimal.  Cardiomediastinal silhouette is unchanged.","there is subtle bibasilar atelectasis, minimally increased interstitial lung disease. no pneumothorax. no pleural effusion. no pulmonary edema. stable mild cardiomegaly. tortuous aorta and calcified hilar lymph nodes are noted. pulmonary vasculature is seen, unchanged. no pne"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11294914\s50052465\00f22575-efc15eea-cdb2577e-669cd4e7-c5a94111.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11294914\s50052465\b6194bf8-c57f3a91-35b2e598-28793953-bff37131.jpg,"FINAL REPORT
+ HISTORY:  ___-year-old woman with shortness of breath.  Evaluate for pneumonia.
+ 
+ COMPARISON:  None available.
+ 
+ FINDINGS:
+ 
+ PA and lateral radiographs of the chest demonstrate clear lungs and normal
+ hilar and cardiomediastinal contours.  There is no pneumothorax or pleural
+ effusion.  Pulmonary vascularity is normal.
+ 
+ IMPRESSION:
+ 
+ Normal radiographs of the chest.","lungs are well inflated. low lung volumes seen on the lateral projection. mild cardiomegaly is again seen with slight prominence of the superior mediastinal contour, similar to prior studies. the aorta is tortuous, and atherosclerotic calcifications seen at the aortic knob. there is no pleural effusion or pneumotho"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12831242\s55548883\13fc8403-6835bb51-a496afa6-7bbbac17-61a613fd.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12831242\s55548883\13fc8403-6835bb51-a496afa6-7bbbac17-61a613fd.jpg,"FINAL REPORT
+ AP CHEST, 11:57 P.M., ___
+ 
+ HISTORY:  Alcoholic cirrhosis, bowel perforation.  Exploratory laparotomy. 
+ Evaluate PIC line which may have been dislodged by the patient.
+ 
+ IMPRESSION:  AP chest compared to ___:
+ 
+ Tip of the left PIC line ends in the low SVC.  Enteric feeding tube ends in
+ the upper stomach.  Moderate bilateral pleural effusions unchanged.  Pulmonary
+ vasculature is mildly engorged, but unchanged and there is no mediastinal
+ venous distention.  Heart size top normal.  No pneumothorax.","as compared to the previous radiograph, the patient has received a right - sided chest tube. a small left apical pneumothorax has not seen. on the lateral view, the pigtail catheter has been inserted, now at least the gastroesophageal junction. the dobbhoff tube and a left chest tube are constant in appearance. otherwise, little change"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10104732\s50569022\8042c4fe-6783506a-eda7ddbc-17831fd9-9ca433a1.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10104732\s50569022\8042c4fe-6783506a-eda7ddbc-17831fd9-9ca433a1.jpg,"FINAL REPORT
+ INDICATION:  ___-year-old male with HIV, admitted with altered mental status
+ and seizures.
+ 
+ COMPARISON:  Chest radiograph from ___
+ 
+ SUPINE CHEST RADIOGRAPH:  The endotracheal tube, right approach central venous
+ catheter, and enteric catheter are in expected unchanged position.  Overall,
+ aeration of the lungs is similar to prior, though with decrease in edema, now
+ mild.  A retrocardiac opacity is similar to prior.  Cardiomediastinal and
+ hilar contours are within normal limits.
+ 
+ IMPRESSION:  Expected positions of support devices.  Slight decrease in
+ pulmonary edema, now mild.","in comparison with study of _ _ _, the patient has taken a better inspiration. there has been some improvement in the bilateral effusions and volume loss in the left lower lung with decreased air - fluid levels. previously seen bilateral pleural effusion is small if any, remains in the left side - sided effusion would now present. overall size the mediastinal structures and cardiac"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17905253\s55119292\1c3aa6b3-76dff368-9226e379-3660bd94-ef8690a7.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17905253\s55119292\1f2c2dac-74fd4f85-1e19d702-d3c90703-eaea15c5.jpg,"FINAL REPORT
+ CHEST RADIOGRAPHS
+ 
+ HISTORY:  Chest pain.
+ 
+ COMPARISONS:  None.
+ 
+ TECHNIQUE:  Chest, PA and lateral.
+ 
+ FINDINGS:  The heart is normal in size.  The mediastinal and hilar contours
+ appear within normal limits.  The chest appears mildly hyperinflated.  There
+ is no pleural effusion or pneumothorax.  The lungs appear clear.  Bony
+ structures are unremarkable, aside from minimal anterior osteophyte formation
+ along the mid thoracic spine.
+ 
+ IMPRESSION:  Mild hyperinflation.  No evidence of acute disease.",cardiac size is normal. the lungs are clear. no pleural effusion or pneumothorax. a right chest wall dual lead pacing device is seen with the tips in the low in right atrium. no acute osseous abnormalities. multiple clips are noted in the left neck. surgical clips in the right upper quadrant again seen. there is a biapical pleural
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11004450\s54217156\5e3cc923-dca87017-7712f8bf-ad464a14-97f8df8b.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11004450\s54217156\f0dc67c7-1ce64c1c-f301c58b-3d7ab6d1-3af204df.jpg,"FINAL REPORT
+ HISTORY:  Patient reports accidentally pulling on Hickman catheter.  Check
+ placement.
+ 
+ TECHNIQUE:  PA and lateral chest radiograph, 2 views.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS:
+ 
+ A right subclavian approach dual lumen catheter is unchanged in position with
+ the tip terminating at the low SVC.  Cardiomediastinal silhouette and hilar
+ contours are normal.  Lungs are clear.  There is no pleural effusion or
+ pneumothorax.
+ 
+ IMPRESSION:
+ 
+ Right subclavian dual lumen catheter unchanged in position with tip
+ terminating at the low SVC.","the lungs are well expanded and clear. there is no focal consolidation, pleural effusion or pneumothorax. the cardiomediastinal silhouette is within normal limits. old left lateral rib fractures and calcified breast implants are noted. the bilateral hila are unremarkable. the bones are diffusely osteopenic. partially imaged is"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16454913\s57308800\05fd1c94-297c778c-d4e441a0-14e239c8-6074b4c0.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16454913\s57308800\d395d52c-6caec80f-45d0e5da-190276ce-cbdf349a.jpg,"FINAL REPORT
+ HISTORY:  Intermittent hypotension with volume overload.
+ 
+ FINDINGS:  In comparison with the study of ___, the tracheostomy tube remains
+ in place.  There is continued enlargement of the cardiac silhouette, which
+ appears less prominent because of the PA view.  Bilateral pleural effusions
+ are again seen, with compressive atelectasis at the bases.  There appears to
+ be some fullness of pulmonary vessels consistent with elevated pulmonary
+ venous pressure.  An area of oblique opacification at the right base could
+ represent a region of atelectasis.  The appearance would be somewhat unusual
+ for superimposed pneumonia.","pa and lateral views of the chest were obtained. lung volumes are low which limits evaluation assessment. allowing for this, no focal consolidation, edema, effusion, or pneumothorax. the heart and mediastinal contours are normal. no bony abnormalities. an irregularity projecting over the right lung base may be due to a pericardial effusion. no"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13215261\s56615118\6340cd6e-afefc08f-ac308d3a-52d05175-0a7bb04d.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13215261\s56615118\6340cd6e-afefc08f-ac308d3a-52d05175-0a7bb04d.jpg,"FINAL REPORT
+ AP CHEST, 2:46 A.M., ___
+ 
+ HISTORY:  Intubated.  Epistaxis.
+ 
+ IMPRESSION:  AP chest compared to ___:
+ 
+ ET tube is in standard placement, nasogastric tube ends in the upper stomach,
+ transvenous right atrial and left ventricular pacer leads and right
+ ventricular pacer defibrillator lead are in standard placements.  Severe
+ cardiomegaly is slightly worse today than yesterday and there has been an
+ increase in the severity of moderate pulmonary edema and the volume of
+ moderate right pleural effusion.  No pneumothorax.","as compared to the previous radiograph, the patient is rotated with the decrease in position and previously seen a newly - channel pacemaker. no evidence of pneumothorax. mild cardiomegaly without pulmonary edema. no larger pleural effusions. moderate cardiomegaly. no pulmonary edema. no pulmonary edema. no pneumothorax."
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19453133\s53858039\cc13a753-52107142-a4b46669-cc6ebe6a-ad796aa4.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19453133\s53858039\cc13a753-52107142-a4b46669-cc6ebe6a-ad796aa4.jpg,"FINAL REPORT
+ INDICATION:  Shortness of breath and cough.
+ 
+ COMPARISON:  Chest radiograph on ___.  Chest CT on ___.
+ 
+ FINDINGS:  AP portable view of the chest.  There are bilateral mainly central
+ parenchymal opacities consistent with moderate pulmonary edema.  There are
+ likely small bilateral pleural effusions.  The heart size is normal.  Again
+ seen is a densely calcified thoracic aorta.  There is no pneumothorax.
+ 
+ IMPRESSION:  Moderate pulmonary edema.  Likely small bilateral pleural
+ effusions.",a left internal jugular venous catheter terminates in the mid svc. low lung volumes are otherwise similar. the heart size is unchanged. the mediastinal and hilar contours are within normal limits. the pulmonary vasculature is normal. the lungs are clear. no pleural effusion or pneumothorax is seen. no acute osse
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12882985\s54772710\764df048-8bd57af5-8439518b-1f6969de-1e1da89c.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12882985\s54772710\764df048-8bd57af5-8439518b-1f6969de-1e1da89c.jpg,"WET READ: ___ ___ 8:20 PM
+  The patient is rotated, limiting evaluation.  The right IJ is likely at the
+  cavoatrial junction, though due to rotation, it is difficult to tell the exact
+  position.  Recommend correlation with a blood gas.  Malpositioned NG tube with
+  the tip in the esophogus.  Unchanged left consolidation and volume loss.
+  
+ WET READ VERSION #1 
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ AP CHEST, 7:23 P.M. ON ___
+ 
+ HISTORY:  Central venous line placement.
+ 
+ IMPRESSION:  This examination was presented for review on ___.  Tip of
+ the right internal jugular line projects over the mid-to-low SVC.  Nasogastric
+ tube is looped in the lower esophagus and ends at the level of the aortic
+ arch.  Heart is top normal size, but difficult to assess, because of patient
+ rotation, which also obscures the left lower lobe.  Small left pleural
+ effusion is likely.  Right lung and right pleural space normal.  No
+ pneumothorax.",there are patchy opacities in the left lung. the heart size appears to be enlarged. no pleural effusion or pneumothorax is present. please note that the right heart border cannot be excluded. no mediastinal shift is identified. the cardiac and mediastinal silhouettes are unremarkable. multiple rib fractures are noted bilaterally. there is
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15805011\s54797950\454098ee-39f27fe6-3941ace1-f569ec3c-1109f0c2.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15805011\s54797950\470fe22d-fa8cc37c-58664733-c4d69f5a-1ff0fdc9.jpg,"FINAL REPORT
+ INDICATION:  ___-year-old woman with chest pain.  Question pneumonia.
+ 
+ COMPARISON:  Radiograph dated ___ and CT dated ___.
+ 
+ FINDINGS:  Frontal and lateral views of chest demonstrate normal
+ cardiomediastinal silhouette.  There is mild unfolding of the thoracic aorta. 
+ The lung volumes are slightly decreased but stable.  There is no pneumothorax,
+ vascular congestion, or pleural effusion.
+ There is a small opacity obscuring the left posterior costophrenic angle,
+ which is likely due to a Bochdalek hernia.  Apparent thickening along the left
+ lateral basal pleural space is consistent with extrapleural fat as correlated
+ with CT.
+ 
+ IMPRESSION:  Bochdalek hernia likely accounts for a small opacity in the left
+ posterior lung base.  However, as this appears slightly more prominent than on
+ prior studies, suggest a repeat CXR to exclude an adjacent pneumonia if
+ symptoms persist.","cardiac size is normal. there is a left chest pacer with leads terminating in the expected location of the right atrium and right ventricle. prominence of the cardiac silhouette is unchanged from the prior examination. pulmonary vascularity is seen without focal consolidation, pleural effusion or pneumothorax. no displaced rib fractures are seen. there are no acute osseous abnormalities."
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14053665\s59588854\18188d03-385a5d59-da2bad0e-529c8b48-dc289059.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14053665\s59588854\2458fa57-699a752d-6785bdd7-4c49bf8d-e2796777.jpg,"FINAL REPORT
+ INDICATION:  ___ year old man with fever,sweats  // fever/sweats
+ 
+ EXAMINATION:  CHEST (PA AND LAT)
+ 
+ TECHNIQUE:   Chest radiograph, PA and lateral views
+ 
+ COMPARISON:  Chest radiograph ___
+ 
+ FINDINGS: 
+ 
+ There is no consolidation, pleural effusion, or pneumothorax. 
+ Cardiomediastinal and hilar silhouettes are normal size.
+ Peribronchial thickening is unchanged.
+ 
+ IMPRESSION: 
+ 
+ No radiographic evidence of pneumonia. Peribronchial thickening is unchanged
+ and may represent bronchitis.",lung volumes are low. cardiomediastinal and hilar contours are normal. there is no pleural effusion or pneumothorax. there is no focal lung consolidation. pulmonary vasculature is within normal limits. surgical clips are seen in the upper abdomen. cervical spinal fusion hardware is again noted. a left humeral head is again seen.
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14324761\s51908966\e03a619d-186a3f06-7b51694c-ecf8e547-0bfa3434.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14324761\s51908966\f2f3942e-8dabd115-616cf382-ee390625-227483da.jpg,"FINAL REPORT
+ INDICATION:  Fever and history of pneumonia with ongoing cough.
+ 
+ COMPARISONS:  Chest radiograph ___.  Chest radiograph ___.
+ 
+ FINDINGS:  The right middle lobe opacity has resolved.  No new opacities
+ identified.  The pleural effusions have also resolved.  There is no pulmonary
+ edema or pneumothorax.  A curvilinear dense opacity overlying the left mid
+ lung zone is unchanged and may represent a calcified granuloma or small AVM. 
+ The cardiomediastinal silhouette is normal.  There is no free air below the
+ hemidiaphragms.
+ 
+ IMPRESSION:
+ 1.  Resolution of right middle lobe pneumonia.  No new pneumonia is
+ identified.
+ 2.  Resolution of bilateral pleural effusions.
+ 3.  Stable curvilinear density in the left mid lung zone, likely a calcified
+ granuloma or AVM.","lung volumes are low with resultant bronchovascular crowding. there is no focal consolidation, pleural effusion or pneumothorax. cardiomediastinal silhouette is stable. there is mild dextroscoliosis of the thoracic spine. there is mild s - shaped scoliosis of the right fifth rib noted. there is loss of the"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11344336\s57550093\3b0ee00f-8629d964-7cb3bb24-f031d6f9-c06d0954.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11344336\s57550093\6b89f115-2c8581e7-47dd1667-e0bd0f95-e0570a88.jpg,"FINAL REPORT
+ INDICATION:  History: ___F with chest pain  // acute process?
+ 
+ TECHNIQUE:  Frontal and lateral views of the chest.
+ 
+ COMPARISON:  None.
+ 
+ FINDINGS: 
+ 
+ Normal heart, lungs, pleura and mediastinal surfaces.
+ 
+ IMPRESSION: 
+ 
+ Clear lungs.","heart size is normal. the aorta is tortuous. mediastinal and hilar contours are normal. lungs are hyperinflated with patchy opacities projecting over the right upper lobe, concerning for pleural fluid. no pneumothorax is identified. no free air is seen beneath the diaphragms. a calcified nodule in"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15884351\s50195217\43c26de0-0ef795d4-bd83cef4-6dc4f7b9-645cd140.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15884351\s50195217\43c26de0-0ef795d4-bd83cef4-6dc4f7b9-645cd140.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man with asthma, intubated for hypercarbia  // OG
+ placement
+ 
+ COMPARISON:  ___.
+ 
+ IMPRESSION: 
+ 
+ As compared to the previous radiograph, there is a new area of atelectasis,
+ potentially combined with a small pleural effusion, on the right. The patient
+ continues to be intubated.  No nasogastric tube is seen.  No other parenchymal
+ opacities. No pneumothorax.
+ 
+ NOTIFICATION:  4I FICU was notified by telephone at the time of dictation and
+ observation, 08:22, on ___","a left picc terminates in the mid svc. compared to prior, there has been no significant change in the appearance of the lungs and cardiomediastinal silhouette stable. pleural surfaces are normal in size. there is no pulmonary vascular congestion or pneumothorax. surgical clips are seen in the right upper quadrant. cardiac and mediastinal contours are unchanged"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12805811\s58919341\bec09b3b-77ab4598-93370cdd-8fd91f65-09005498.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12805811\s58919341\bec09b3b-77ab4598-93370cdd-8fd91f65-09005498.jpg,"FINAL REPORT
+ REASON FOR EXAMINATION:  Evaluation of the patient with intra-aortic balloon
+ pump placement and Swan catheter placement.
+ 
+ Portable AP radiograph of the chest was reviewed in comparison to ___ obtained at 07:32 a.m.
+ 
+ The intra-aortic balloon pump tip is lower, located approximately 2.8 cm below
+ the roof of the aortic arch.  The Swan-Ganz catheter inserted through the
+ femoral approach terminates what appears to be  left lower lobe pulmonary
+ artery.  Surrounding opacity might reflect pulmonary edema, but in part may be
+ die to pulmonary infarct due to too deep position of the intra-arterial
+ catheter. 
+ 
+ Pulmonary edema, bilateral right more than left pleural effusions are
+ unchanged. Infectious process, as part of the left perihilar opacity is a
+ possibility,  and attention to this area is required.","right - sided internal jugular venous catheter tip terminates in the mid svc, unchanged. subcutaneous emphysema is again noted on the left. there is mild to moderate pulmonary edema. there is no pleural effusion, focal consolidation or pneumothorax. the cardiac size is top normal. a right - sided picc line ends in"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19398915\s50244253\8edb0cfb-e8db97cb-2106f020-784fae8e-3b200e1c.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19398915\s50244253\8edb0cfb-e8db97cb-2106f020-784fae8e-3b200e1c.jpg,"WET READ: ___ ___ 8:21 AM
+  
+  
+  
+  A feeding tube ends in the distal esophagus, but was advanced into proper
+  position on a subsequent radiograph. Loculated pleural fluid in the right lung
+  and pulmonary edema are relatively similar compared to the prior radiograph
+  performed 1 day prior. ___ ___ ___.
+ WET READ VERSION #1 ___ ___ 11:25 PM
+  A feeding tube ends in the distal esophagus, but was advanced into proper
+  position on a subsequent radiograph. Loculated pleural fluid in the right lung
+  and pulmonary edema are relatively similar compared to the prior radiograph
+  performed 1 day prior. ___ ___.
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man with ETOH Cirrhosis and malnutrition needs
+ feeding tube replaced  // NG tube placement     NG tube placement
+ 
+ IMPRESSION: 
+ 
+ In comparison with the study of ___, the Dobbhoff tube extends only
+ to the lower portion of the esophagus. However, on a subsequent image, it was
+ advanced into proper position in the stomach. Continued elevation of pulmonary
+ venous pressure with loculated pleural fluid in the right lung.","as compared to the previous radiograph, the et tube has been pulled back by 4 cm above the carina, the nasogastric tube has been advanced. the tip is now visible. the course of the tube is unremarkable. the tip of the tube projects over the low svc. no evidence of complications, notably no pneumothorax. otherwise, stable."
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16514111\s58711390\524dfaa3-0ad8a79f-294ce89c-f5c9b859-1fee708d.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16514111\s58711390\ffe5b80b-2616c9a4-3e7b61b1-f4d9ff8e-9653ec56.jpg,"FINAL REPORT
+ INDICATION:  ___ year old man with productive cough X 2 weeks. Denies fever or
+ chills. Is s/p liver transplant.  // Pt with productive cough X 2 weeks. He
+ has had a liver transplant
+ 
+ EXAMINATION:  CHEST (PA AND LAT)
+ 
+ TECHNIQUE:   Chest radiograph, PA and lateral views
+ 
+ COMPARISON:  Chest radiograph ___
+ 
+ FINDINGS: 
+ 
+ There is opacity in the right lower lobe silhouetting posterior aspect of
+ right hemidiaphragm on lateral view.  This may be atelectasis, however
+ pneumonia as possible in correct clinical setting. There is no pulmonary edema
+ or pleural effusion. Borderline enlarged cardiac silhouette is smaller
+ compared to ___.
+ 
+ IMPRESSION: 
+ 
+ There is opacity in the right lower lobe silhouetting posterior aspect of
+ right hemidiaphragm on lateral view. This may be atelectasis, however
+ pneumonia as possible in correct clinical setting.
+ 
+ NOTIFICATION:  The findings were discussed by Dr. ___ with Dr. ___ on the
+ telephone on ___ at 4:00 PM.","left chest tube and pacemaker leads are in standard position. cardiomediastinal and hilar contours are normal. there is no pneumothorax or pleural effusion. the bones are probably within normal limits. there are no evidence of interstitial abnormality. minimal on lateral view is limited due to poor inspiration, if any. there is no"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10706968\s55142908\9c3fd7fb-e7a19d98-ee5ed68f-7a386eb4-66a6734e.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10706968\s55142908\b769d2ca-b4e5f637-1278d087-427e94fd-1f4ad274.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST RADIOGRAPHS
+ 
+ INDICATION:  Acute onset of dyspnea.  History of congestive heart failure.
+ 
+ TECHNIQUE:  Chest, AP upright and lateral.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS: 
+ 
+ The cardiac, mediastinal and hilar contours appear unchanged.  There is no
+ pleural effusion or pneumothorax.  The lungs appear clear.  There has been no
+ significant change.
+ 
+ IMPRESSION: 
+ 
+ No evidence of acute cardiopulmonary disease.","cardiomediastinal contours are normal. patchy areas of opacities are noted in the left lower lobe, suggestive of atelectasis or developing pneumonia. no pleural effusion. no pneumothorax. no acute osseous abnormalities identified. surgical clips are noted in the right upper quadrant of the abdomen. no visualized osse"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14775533\s57284084\ee818b6c-3c98ca2a-c6a98a52-19fb2ef0-0e8017f0.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14775533\s57284084\ee818b6c-3c98ca2a-c6a98a52-19fb2ef0-0e8017f0.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man s/p AAA repair  // eval for edema
+ 
+ COMPARISON:  ___.
+ 
+ IMPRESSION: 
+ 
+ As compared to the previous radiograph, the monitoring and support devices are
+ constant. Increasing lung volumes but also increasing soft tissue air
+ collections that create multiple are defects, so that the lung parenchyma
+ cannot be appropriately assessed. Unchanged appearance of the cardiac
+ silhouette.","cardiomediastinal silhouette and pulmonary vasculature are normal. slight improvement in the right mid to lower lung zone is again noted. a left - sided chest tube is again noted. persistent bibasilar opacities, may reflect atelectasis, or pneumonia. an underlying infectious process is not excluded. no pneumothorax. no large pleural"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14717200\s51042808\c8014c22-5a03f891-a4f881a3-700ab67a-98648cfa.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14717200\s51042808\c8014c22-5a03f891-a4f881a3-700ab67a-98648cfa.jpg,"FINAL REPORT
+ HISTORY:  AIDS with pneumonia.
+ 
+ FINDINGS:  In comparison with the study of ___, there are lower lung volumes
+ which account for the increased prominence of the cardiac silhouette.  No
+ evidence of vascular congestion or pleural effusion.  There is some increased
+ opacification at the right base medially.  This could well reflect a
+ combination of crowded pulmonary vessels and atelectasis, though in the
+ appropriate clinical setting supervening pneumonia could not be definitely
+ excluded.","single portable upright view of the chest. no free intraperitoneal air. the heart size is normal. a mild hiatal hernia is noted. the lung volumes are low with mild elevation of the right hemidiaphragm. no focal consolidation, pleural effusion, or pneumothorax. heart size cannot be assessed. mediastinal contour is"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10353794\s52538096\a259f442-7e485d77-6b1b9f50-6c317e78-e140e530.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10353794\s52538096\a259f442-7e485d77-6b1b9f50-6c317e78-e140e530.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man with PICCL from OSH.  // Please confirm PICCL
+ placement.
+ 
+ COMPARISON:  No comparison
+ 
+ IMPRESSION: 
+ 
+ The lung volumes are normal. The patient carries a right PICC line. The course
+ of the line is unremarkable, the tip of the line projects over the mid to low
+ SVC. The patient also carries a feeding tube. The tip of the tube is not
+ displayed on the image.  No evidence of complications, no pneumonia, no
+ pleural effusions.","the lungs are well expanded and clear. there is no pleural effusion or pneumothorax. the heart size is normal. the mediastinal silhouette is unremarkable. note is made of surgical clips seen in the left upper quadrant of the abdomen. conclusion : multiple - prior fractures are again noted with its a wires in the right atrium, again seen within the"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17424385\s57830461\a2276555-b8e30b03-49ba1960-faf58651-21ea2a77.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17424385\s57830461\cf307818-99a30653-c3fe4d5c-0bcf89e7-9a9d6d2a.jpg,"FINAL REPORT
+ INDICATION:  ___ year old woman with h/o renal cell ca  // r/o any changes from
+ previous CXR and CT
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  Chest radiograph dated ___ and chest CT dated ___
+ 
+ FINDINGS: 
+ 
+ Overall there is stable appearance of the chest with normal heart size and
+ stable thoracic aortic tortuosity. No focal consolidation, pleural effusion or
+ pneumothorax.
+ 
+ IMPRESSION: 
+ 
+ Stable appearance of the chest.",the heart size is normal. the mediastinal and hilar contours are within normal limits. pulmonary vasculature is normal. lungs are clear. no pleural effusion or pneumothorax is identified. there are no acute osseous abnormalities. no acute osseous abnormalities are seen. surgical clips project over the right upper quadrant. mediastinal
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13714286\s56661422\75e660e9-485bc0ab-0bfc1db7-c6a0f191-58c860d9.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13714286\s56661422\75e660e9-485bc0ab-0bfc1db7-c6a0f191-58c860d9.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man with likely alcoholic cirrhosis, cellulitis and
+ MSSA bacteremia now with tachypenia  // eval ? pna, effusion
+ 
+ TECHNIQUE:  Portable chest
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS: 
+ 
+ The heart is moderately enlarged and there is pulmonary vascular
+ redistribution and increased interstitial markings and hazy alveolar
+ infiltrate in the lower lungs.  There small bilateral effusions.  There is
+ dense retrocardiac opacity consistent volume loss/infiltrate/effusion.  There
+ is also increased opacity in the right lower lobe consistent with volume
+ loss/infiltrate.
+ 
+ IMPRESSION: 
+ 
+ Fluid overload.  An underlying infectious infiltrate can't be excluded","interval improvement of moderate pulmonary edema, now moderate to severe cardiomegaly, small, atelectasis, or pulmonary edema and pleural effusion. mild cardiomegaly. no pneumothorax. patient is status post sternotomy. conclusion : 1. 7. 1 cm and moderate left pleural effusion has substantially decreased in extent"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12711845\s50543078\3e3ed033-ea68550f-057c9d5c-2fab9a59-8d34ae10.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12711845\s50543078\3e3ed033-ea68550f-057c9d5c-2fab9a59-8d34ae10.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___F w/ hx COPD on 3L home O2, incidentally found spiculated lung
+ nodule, in the hospital for lower back pain w/ sudden onset tachycardia,
+ tachypnea, and respiratory distress.  // Eval for interval change after
+ extubation
+ 
+ COMPARISON:  With the prior study, ET and NG tubes have been removed.  A right
+ IJ central line remains present, tip over distal SVC.  No pneumothorax
+ detected.
+ 
+ Again seen is patchy prominent patchy opacity at the right lung base. 
+ Retrocardiac opacity is better seen on the current exam due to lack of patient
+ rotation, but is probably unchanged.  There is upper zone redistribution, but
+ doubt overt CHF.  Allowing for differences in positioning, the
+ cardiomediastinal silhouette is probably unchanged.  No gross effusion
+ identified.  Small right effusion would be difficult to entirely exclude.
+ 
+ FINDINGS: 
+ 
+ ET and NG tube have been removed.
+ 
+ Otherwise, allowing for differences in positioning, doubt significant interval
+ change.  Persistent opacities at the right greater than left bases again
+ noted.","an ng tube terminates the left upper quadrant. left ij line tip in the distal svc and near has been advanced improvement with near the air the lead terminating in the axillary region. there is some atelectasis at the left lung base. overall, there has been interval improvement of a left retrocardiac atelectasis. the lungs are otherwise grossly clear. cardiom"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14613271\s53489799\27b8b99a-0da0141b-83e0be0e-c69f6433-7792dd28.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14613271\s53489799\b2ee463c-a38bf5cb-c69371c3-844bb0b6-a5198d71.jpg,"FINAL REPORT
+ INDICATION:  ___-year-old woman with inhalation of cell a cup outer at work. 
+ Evaluation for pneumonitis.
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  None.
+ 
+ FINDINGS: 
+ 
+ Normal heart, lungs, pleural and mediastinal surfaces.  There are gas-filled
+ loops of bowel in the left upper quadrant.
+ 
+ IMPRESSION: 
+ 
+ Clear lungs.","the lungs are clear. there is no effusion, consolidation, or pneumothorax. cardiomediastinal silhouette is within normal limits. no acute osseous abnormalities. no free air under the right hemidiaphragm. no evidence of free air is seen beneath the diaphragms. surgical clips are seen in the right axilla. healed rib fracture"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p18\p18933476\s51321037\69c279b5-43607a69-222dc165-d40450da-46673abd.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p18\p18933476\s51321037\88d24a67-29e68742-5e5b0d44-f0c5acf7-7986c82c.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PA AND LAT)
+ 
+ INDICATION:  ___ year old woman s/p total thyroidectomy ___ c/b wound
+ infection and septic shock. bilat chest tubes placed, now out.  // eval for
+ interval change
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  ___
+ 
+ FINDINGS: 
+ 
+ Cardiomediastinal contours are normal. The upper lungs are clear.  Small
+ bilateral pleural effusions with adjacent atelectasis have markedly decreased
+ from prior study. There is no pneumothorax .  The osseous structures are
+ unremarkable. Left PICC tip is in the left brachycephalic vein.
+ 
+ IMPRESSION: 
+ 
+ Decrease in size in small bilateral pleural effusions
+  Left PICC tip is in the left brachycephalic vein.","as compared to the previous radiograph, the pleural effusion has decreased. no newly appeared parenchymal abnormalities. normal size of the cardiac silhouette. normal lung volumes. no evidence of pneumonia. no pleural effusions. no pneumonia. unchanged right picc line. no pleural abnormalities. unchanged moderate cardiomegaly and unchanged alignment of sternal wires."
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p18\p18591277\s50449935\6dd50787-23d1f133-c79dd132-ccc8c956-bee8f68a.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p18\p18591277\s50449935\c89778de-ec713684-bdc60235-55efac84-be3a402c.jpg,"FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ INDICATION:  Cough for six weeks, expiratory CT, evaluation for pathology, in
+ particular in the right upper lobe.
+ 
+ COMPARISON:  No comparison available at the time of dictation.
+ 
+ FINDINGS:  Normal lung volumes.  Mildly enlarged size of the cardiac
+ silhouette without pulmonary edema or other lung parenchymal changes.  No
+ pneumonia, no pleural effusions.  No hilar or mediastinal abnormalities.  In
+ particular, the right upper lobe appears unremarkable.","frontal and lateral views of the chest demonstrate normal lung volumes without pleural effusion, focal consolidation or pneumothorax. pulmonary vasculature is within normal limits. prominent calcifications are noted within the left hilum. cardiac silhouette is within normal limits. no acute osseous abnormalities. no free air below the right hemidiaphragm is seen."
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17244595\s53965017\645dd199-490a5fb4-305aa4a3-39fcf9f5-7ec4405e.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17244595\s53965017\645dd199-490a5fb4-305aa4a3-39fcf9f5-7ec4405e.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ M intubated with COPD, pneumonectomy  // eval for interval
+ change.      eval for interval change.
+ 
+ IMPRESSION: 
+ 
+ Comparison to ___.  No relevant change is seen.  Minimal increase
+ in radiodensity at the right lung basis.  Stable overinflation.  Stable
+ monitoring and support devices.  No pneumothorax.","endotracheal tube tip is in standard position. 2. 1 cm from the carina. an enteric tube courses below the diaphragm. mediastinal drains are unchanged. mild to moderate cardiomegaly is stable. minimal fluid overload and mediastinal structures are unchanged. otherwise, there is no relevant change. again, partially imaged is of bilateral hazy pulmonary"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11459120\s53947041\2cbe778d-91d1aca8-2f119c7c-3f161908-bb003d64.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11459120\s53947041\a9d014d4-1a5447d2-e0d9a7f2-7dd98cc4-f9ac2862.jpg,"FINAL REPORT
+ HISTORY:  Patient with CHF and cough, assess opacities seen on previous chest
+ x-ray.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS:  Frontal and lateral chest radiographs were obtained.
+ 
+ There is again a subtle left basilar opacity seen in the retrocardiac region
+ posteriorly.  The right lung opacity has cleared.  The heart is mildly
+ enlarged.  Hilar contours and pleural surfaces are normal.  There is no
+ pleural effusion or pneumothorax.
+ 
+ IMPRESSION:  Subtle area of increased opacity in the left lower lobe which may
+ reflect a clearing consolidation.","lung volumes are low. there is no focal consolidation, pleural effusion, pulmonary edema, or pneumothorax. the cardiomediastinal silhouette is normal. surgical clips are noted in the right upper quadrant. there is a small left pleural effusion. there is no evidence of free air under the diaphragm. mild degen"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19557250\s55294057\2cc4e20a-910ad968-258c6483-3126d4a7-6f372212.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19557250\s55294057\2cc4e20a-910ad968-258c6483-3126d4a7-6f372212.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man with hypercarbic respiratory failure s/p
+ intubation.  // evaluate for new ETT placement      evaluate for new ETT
+ placement
+ 
+ IMPRESSION: 
+ 
+ In comparison with the earlier study of this date, there has been placement of
+ an endotracheal tube, with its tip approximately 6.5 cm above the carina. 
+ There are lower lung volumes.  The left hemidiaphragm again is obscured,
+ consistent with volume loss in the lower lobe and small pleural effusion.
+ No evidence of vascular congestion or acute focal pneumonia.","in comparison with the study of _ _ _, the endotracheal tube has been pulled back slightly more so the orogastric tube, but the tube coursing in the middle location of the stomach, it would be pushed forward to be postsurgical. mild to moderate pulmonary edema has completely resolved with subsequent small residual effusions remaining. cardiac silhouette remains unchanged. the other"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19657904\s51105576\76a9859e-ae0ff047-98e72ae4-16d2cb20-fbdcd2ee.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19657904\s51105576\76a9859e-ae0ff047-98e72ae4-16d2cb20-fbdcd2ee.jpg,"FINAL REPORT
+ INDICATION:  Respiratory distress.
+ 
+ COMPARISONS:  Chest radiograph of ___.
+ 
+ FINDINGS:  AP portable view of the chest demonstrates low lung volumes.  No
+ large pleural effusion, pneumothorax or focal consolidation.  The aorta is
+ markedly tortuous without focal aneurysmal changes.  Heart is mildly enlarged.
+ Mild perihilar vascular congestion is noted.
+ 
+ IMPRESSION:
+ 
+ Mild cardiomegaly and perihilar vascular congestion.","the heart is upper limits of normal size, and the mediastinal and hilar contours are normal. the lungs are clear and the pulmonary vascularity is normal. there is no pleural effusion or pneumothorax. small subcutaneous emphysema in the right apex is similar to prior. patchy lingular opacity is most consistent with"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14497007\s55032656\0e8ce675-5eb4f978-6dbe7cfc-eecc8f88-d05f5bfb.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14497007\s55032656\2fa1078d-cb61ba43-b90f9608-06e3a7fc-d4a3497c.jpg,"FINAL REPORT
+ TYPE OF EXAMINATION:  Chest PA and lateral.
+ 
+ INDICATION:  ___-year-old female patient with MM status post fall on the left
+ side, STAT x-ray needed pre-ECT, scheduled for tomorrow.  Status post fall,
+ evaluate for fracture.
+ 
+ FINDINGS:  PA and lateral chest views were obtained with patient in upright
+ position.  Analysis is performed in direct comparison with the next preceding
+ chest examination of ___.  The heart size is normal.  No
+ configuration abnormality is identified.  The pulmonary vasculature is not
+ congested.  Appearance of thoracic aorta is unremarkable.  Mediastinal
+ structures and thoracic spine are partially obscured by two stabilization rods
+ and multiple penetrating fixation screws into the vertebral bodies covering
+ the entire thoracic and upper portion of the lumbar spine.  The orthopedic
+ hardware appears unchanged in position.  No new pulmonary parenchymal
+ abnormalities are identified.  Similar as seen on the previous examination,
+ there is some local thickening of the left-sided interlobar fissure most
+ likely representing postoperative scar formations.  No gross changes in
+ appearance of the skeletal structures within the thorax, as seen on the
+ routine PA and lateral chest projections.  Review of our image records
+ indicates the performance of a unilateral rib examination of the left-sided
+ chest performed ___.  On that examination, small metallic markers
+ had been placed in the lower thoracic edge showing some local deformities of
+ the ribs, but no evidence of acute fracture.  This area is not included in the
+ present routine chest PA and lateral examination.  Comparison is extended to a
+ chest PA and lateral examination of ___, the thickening of the
+ left-sided interlobar fissure did not exist at that time.  Gross skeletal
+ abnormalities beyond what exists in relation to the spinal stabilization
+ procedure were not identified  in this patient with history of multiple
+ myeloma.
+ 
+ Telephone call was placed to extension ___in an effort to contact with
+ referring physician, ___, in order to explore if patient had new
+ trauma and new symptoms after the latest chest examination of ___.",pa and lateral views of the chest demonstrate interval widening of the contour of the right mid and lower thoracic cage. the lungs are clear. the cardiomediastinal silhouette and hilar contours are normal. there is no pleural effusion or pneumothorax. the visualized upper abdomen is unremarkable. visualized osseous
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15640564\s52259359\50a91608-efd1b08f-54750830-4116bc5c-084360f5.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15640564\s52259359\5efc5ad5-c9831301-2101314f-d26c6e41-4d53aec7.jpg,"FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ HISTORY:  Chest, AP semi-upright portable.
+ 
+ TECHNIQUE: Chest, portable AP portable.  
+ 
+ FINDINGS:  Lung volumes are low.  The cardiac contours are not well
+ delineated.  There is opacification of the right lower hemithorax suggesting a
+ combination of atelectasis, possibly pneumonic consolidation and potentially
+ pleural effusion although not well delineated.  Nonspecific patchy left
+ infrahilar opacity is also noted.  Allowing for AP portable technique, there
+ is no definite cardiac failure.  There is no evidence for pleural effusion on
+ the left.  There is no pneumothorax.
+ 
+ IMPRESSION:  Basilar opacities, right greater than left, worrisome for
+ pneumonia in the appropriate clinical setting.  Particularly on the right a
+ pleural effusion is possible and cannot be excluded.",the patient is status post sternotomy and cabg. there is mild pulmonary edema without new consolidation. no large effusion is seen. the heart is top - normal in size. mediastinal contours are stable. there is no pleural effusion or pneumothorax. bones are diffusely osteopenic. a transesophage
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11607584\s57347788\532afca1-0c43d80e-da30ee04-10933343-ada60ad5.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11607584\s57347788\febee324-6c453be9-8d6f767f-2092820f-2a12ba92.jpg,"FINAL REPORT
+ INDICATION:  ___ year old man with cough  // cough/wheeze
+ 
+ TECHNIQUE:  Frontal and lateral views of the chest.
+ 
+ COMPARISON:  ___ and ___.
+ 
+ FINDINGS: 
+ 
+ A linear opacities in the left lung base have decreased since ___, probably atelectasis. No pleural effusion or pneumothorax is identified.
+ The cardiac and mediastinal contours are normal.  There is a replaced mitral
+ valve and a tricuspid annuloplasty.  The third median sternotomy wire has been
+ fractured since ___. Clips project over the right upper mediastinum.
+ 
+ IMPRESSION: 
+ 
+ Mild left basal atelectasis or linear scarring. No pneumonia
+ 
+ NOTIFICATION:  ___ discussed with Dr. ___ ___.","frontal and lateral radiographs of the chest demonstrate normal heart size, mediastinal and hilar contours. a small left apical pneumothorax is seen. there is also decreased right pleural effusion and associated with atelectasis associated worsening pulmonary edema. new right lower lobe atelectasis is present with interval increase in a retrocardiac density"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13179215\s58429238\46cc8c2b-322af51d-37c5d67c-0544cfa1-45abe2a7.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13179215\s58429238\af191ee1-6caaa2e3-414aef6f-11aea518-b568213c.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PA AND LAT)
+ 
+ INDICATION:  ___ year old man with liver dz, bibasilar crackles  // atlectasis
+ vs. edema
+ 
+ COMPARISON:  ___.
+ 
+ IMPRESSION: 
+ 
+ Moderate overinflation.  Areas of bilateral scarring at the lung bases. 
+ Minimal scars in the right lung apex.  The findings are consistent with
+ relatively advanced COPD.  There is no evidence, however, of acute lung
+ disease such as pneumonia or pulmonary edema.  Nonetheless, CT could be
+ performed to further clarify lung morphology and to evaluate potential
+ morphological reasons for the clinical presentation of the patient.",again seen is large right pleural effusion with associated volume loss. there is probably small left pleural effusion. there is subtle increased opacity at the right lung base which is slightly improved. left lung is clear. heart size and mediastinal contours are normal. aortic arch calcifications are noted. no pneumothorax
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19859532\s54896812\843f0b44-5f445cce-eb54c6e9-040b22ac-b614f562.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19859532\s54896812\843f0b44-5f445cce-eb54c6e9-040b22ac-b614f562.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old woman with acute leukemia and fever  // ? r/o
+ pneumonia      ? r/o pneumonia
+ 
+ IMPRESSION: 
+ 
+ Comparison to ___.  No relevant change.  Stable right PICC line
+ in correct position.  No pleural effusions.  No pneumonia, no pulmonary edema.
+ Normal size of the cardiac silhouette.","two ap portable upright views of the chest were obtained. there is cardiomegaly without focal consolidation, effusion, or pneumothorax. the cardiomediastinal silhouette is within normal limits. bony structures are intact. no free air below the right hemidiaphragm. no acute osseous abnormalities. left - sided subclavian venous cathet"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15220389\s57949823\04fea467-efabd320-a146f681-5169b76a-6cfda749.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15220389\s57949823\65a53c26-e984804f-904aed62-a04f7606-223c3e72.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST RADIOGRAPHS
+ 
+ INDICATION:  Metastatic osteosarcoma, fever, and chills.
+ 
+ TECHNIQUE:  Chest, AP and lateral.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS: 
+ 
+ A Port-A-Cath terminates in the upper superior vena cava.  The cardiac,
+ mediastinal and hilar contours appear stable.  There is no pleural effusion or
+ pneumothorax.  The lungs appear clear.  The patient is status post ORIF of the
+ right humerus, which is incompletely assessed.
+ 
+ IMPRESSION: 
+ 
+ No evidence of acute cardiopulmonary disease.","mild bibasilar opacities may be due to atelectasis, less likely consolidation. right lung is clear. there is no pneumothorax. there is no focal consolidation. right port - a - cath tip terminates in the mid to - low svc. multiple enlarged and cardiac valve replacements in stable position since _ _ _ _ _ _ _ _ at least"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p18\p18271325\s57304252\f4c276f0-112ecd64-7fdd1c91-6dc7c8d7-1e39b7ba.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p18\p18271325\s57304252\f4c276f0-112ecd64-7fdd1c91-6dc7c8d7-1e39b7ba.jpg,"FINAL REPORT
+ HISTORY:  COPD and post-op abdominal surgery.
+ 
+ FINDINGS:  In comparison with study of ___, there are again low lung volumes.
+ Free intraperitoneal gas is consistent with recent surgery.  Extensive
+ atelectatic changes are seen at the right base with less prominent changes on
+ the left.  Blunting of the costophrenic angles is consistent with bilateral
+ effusions.
+ 
+ Right IJ catheter tip again extends to the mid portion of the SVC.","a port - a - cath projects over the right upper quadrant. there is interval placement of a right pigtail catheter with the tip now in the lower svc. cardiac, mediastinal and hilar contours are normal. no pleural effusion or pneumothorax is identified. there are degenerative changes in the right shoulder. a presumed"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16826047\s57080795\196c8e5f-ab6084a7-145ac6ef-54b05747-9768ba0f.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16826047\s57080795\196c8e5f-ab6084a7-145ac6ef-54b05747-9768ba0f.jpg,"FINAL REPORT
+ HISTORY:  History of pleural effusion, dyspnea.
+ 
+ TECHNIQUE:  Portable AP view of the chest.
+ 
+ COMPARISON:  Chest CT ___ and chest radiograph ___.
+ 
+ FINDINGS:
+ 
+ Right-sided Port-A-Cath tip terminates in the SVC.  Large right pleural
+ effusion which is loculated appears slightly increased compared to the prior
+ study.  Right basilar opacification could reflect compressive atelectasis
+ though infection is not excluded.  Chest tube is again noted with tip
+ projecting over the right lung base.  There is mild leftward shift of
+ mediastinal structures, slightly increased compared to the prior study. 
+ Cardiac and mediastinal contours otherwise are unchanged.  Streaky left
+ basilar opacity likely reflects atelectasis.  No pneumothorax is identified,
+ and no pulmonary edema is seen.  No acute osseous abnormalities detected.
+ 
+ IMPRESSION:
+ 
+ Large right loculated pleural effusion, slightly increased in size with
+ increasing right basilar opacification suggestive of atelectasis though
+ infection is not excluded.","the endotracheal tube is in adequate position 5. 2 cm above the carina. an enteric tube is present with the tip terminating in the stomach. the heart is of normal size and cardiomediastinal contours are normal. there is no evidence of pleural effusion, focal consolidation, or pneumothorax. osseous structures"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15116019\s52976272\0c9bcefc-e7d2f330-39297d5c-469ba265-5755707b.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15116019\s52976272\333a23f1-58469e3a-54a017eb-3dec094f-fc95e10e.jpg,"FINAL REPORT
+ HISTORY:  Status post bronchotracheoplasty. Evaluation for interval change.  
+ 
+ TECHNIQUE:  Frontal and lateral views of the chest.  
+ 
+ COMPARISON:  Multiple chest radiographs the most recent on ___.  
+ 
+ FINDINGS:
+ 
+ There is a large opacity projecting over the right upper lung which could be
+ fissural pleural fluid but is concerning for pneumonia.  There is mild
+ thickening of the minor fissure, unchanged in appearance.  Again seen is
+ severe cardiomegaly.  There is air and fluid in the chest wall.  
+ 
+ IMPRESSION:
+ 
+ Possible right upper lobe pneumonia.  Recommend CT examination if clinically
+ indicated.  
+ 
+ These findings were communicated to Dr. ___ By telephone at 2:10 PM,
+ ___ min after discovery by Dr. ___.",lung volumes remain low. there is persistent pulmonary edema and right greater than left apical thickening. linear left basilar opacity persists and improved lateral view. there is no focal consolidation concerning for pneumonia. pulmonary vasculature is normal. cardiac silhouette is within normal limits for size. no free air below the right hemidiaphragm. mild - to - severe compression defor
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19079238\s57517334\1832ec5b-fc7a8194-49375124-a2cc7b64-d10fc081.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19079238\s57517334\dcba8f0f-e88dea19-04ecf8e4-56d78f68-de426483.jpg,"FINAL REPORT
+ STUDY:  PA and lateral chest x-ray.
+ 
+ COMPARISON EXAMS:  PA and lateral chest x-ray, ___ and portable
+ chest x-ray, ___.
+ 
+ INDICATION:  Cough for one month.
+ 
+ FINDINGS:  The cardiac size is normal.  The mediastinal and hilar silhouettes
+ are unremarkable.  The sternotomy wires are aligned, and surgical clips are
+ again noted.  There is no pleural effusion or pneumothorax.  The lungs are
+ clear with no pneumonia or atelectasis.
+ 
+ IMPRESSION:  No pneumonia.","in comparison with the study of _ _ _, the patient has taken a better inspiration. there is again a substantial vascular congestion with at the base of the svc which is consistent with some atelectasis, but cannot be ruled in this patient with relatively extensive to the fibrosis and some of a superimposed fibrotic streaks in the lower lungs. again seen is a hetero"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13748151\s55108337\0ac1cea2-4365d001-575ec476-155684f3-b3e5c410.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13748151\s55108337\b58983bf-36e45cf1-674fb0fc-0dbb0648-ae2a41a7.jpg,"FINAL REPORT
+ HISTORY:  Lethargy, confusion.
+ 
+ TECHNIQUE:  Upright AP and lateral views of the chest.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS:
+ 
+ The patient is status post median sternotomy, CABG, and aortic and mitral
+ valve replacement.  Heart size is normal.  Mediastinal and hilar contours are
+ unremarkable.  Atherosclerotic calcifications are seen throughout the aorta. 
+ The pulmonary vascularity is normal.  Lungs are clear.  No pleural effusion or
+ pneumothorax is seen.  There are no acute osseous abnormalities.
+ 
+ IMPRESSION:
+ 
+ No acute cardiopulmonary process.",frontal and lateral views of the chest. low lung volumes noted. mild blunting of the bilateral costophrenic angles is likely due to a small pleural effusion. blunting of the left costophrenic angle which may be due to chronic pleural thickening / scarring or atelectasis. there is a minimal right lower lobe mass was present on the prior
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17547176\s51062075\7b039c95-c4bac346-d3bce9c4-cad372db-fc66273c.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17547176\s51062075\909067b4-8a526197-e4f1aa06-dc9e1a42-24c9ac1c.jpg,"FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ INDICATION:  Stab wound in the chest wall.  Followup.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS:  Compared to the previous radiograph, there is a newly appeared and
+ previously not visible left apical pneumothorax with a diameter of
+ approximately 4-5 mm.  No evidence of tension.  The right lung is
+ unremarkable.  A minimal pleural effusion is also seen on the left,
+ appreciated on the lateral radiograph only.
+ 
+ At the time of dictation and observation, 12:19 p.m., on ___, the
+ referring physician, ___. ___ was paged for notification (a pneumothorax had
+ already been known from the CT examination from ___).","left - sided dual - chamber pacemaker device appears intact with leads in expected position. the lungs are clear of focal consolidation, pleural effusion or pneumothorax. the heart is top normal in size, not moderately enlarged. no overt pulmonary edema is seen. the aorta is tortuous and calcified. the thoracic aorta is slightly"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11607177\s51101768\7e3f89b5-a91eef1f-a4206b32-651a513b-0a2710d4.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11607177\s51101768\7e3f89b5-a91eef1f-a4206b32-651a513b-0a2710d4.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man with VT s/p IABP placement  // positioning of
+ IABP
+ 
+ TECHNIQUE:  CHEST (PORTABLE AP)
+ 
+ COMPARISON:  ___ obtained at 13:21
+ 
+ IMPRESSION: 
+ 
+ Intra-aortic balloon pump is currently 3 cm below the roof of the aortic arch,
+ in appropriate position. Swan-Ganz catheter tip is deep into the right lower
+ lobe segmental subsegmental branches and should be pulled back at least 6 cm.
+ Cardiomegaly is substantial in unchanged. There is interval progression of
+ mild interstitial pulmonary edema","a left pigtail catheter remains in place, with the leads in the right atrium and right ventricle. mild cardiac enlargement. there is small left pleural effusion which also increased with a left - sided central pulmonary vascular congestion. the bilateral pleural effusions are small and there is bibasilar atelectasis. the pulmonary vascularity is"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17767787\s50701044\f0880e8f-519d09b2-b3773503-83dbbd1d-d64bfbcf.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17767787\s50701044\f0880e8f-519d09b2-b3773503-83dbbd1d-d64bfbcf.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man with esrd, decompensated HFrEF, cirrhosis
+ w/dyspnea  // interval change effusion      interval change effusion
+ 
+ IMPRESSION: 
+ 
+ Compared to chest radiographs ___ through ___.
+ 
+ Severe cardiomegaly unchanged.  Mild pulmonary vascular engorgement stable. 
+ No edema.  No pneumonia.  No pneumothorax or appreciable pleural effusion. 
+ External defibrillator midline.","in comparison with the study of earlier in this date, the patient has taken a somewhat better inspiration. again, the cardiomediastinal silhouette is again again, again by pulmonary vascular congestion. linear opacification at the right base and slight small to pleural effusions are likely. small right effusion is unchanged, though the left hemidiaphragm is not sharply"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10149952\s59625322\37b3db8e-edfb4ca1-0e348eb2-0c79a062-a9e1bd9f.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10149952\s59625322\d48f9f90-d209e1f8-6a175000-5640027a-d5c46d78.jpg,"FINAL REPORT
+ INDICATION:  ___-year-old female with confusion.
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  Radiograph dated ___.
+ 
+ FINDINGS: 
+ 
+ PA and lateral chest radiograph is compared to radiograph dated ___. 
+ Relative to prior examination, there has been little interval change.  Heart
+ is mildly enlarged. Hilar contours are stable in appearance. No focal opacity
+ convincing for pneumonia is identified.  Linear densities at bilateral bases
+ is most likely reflective of platelike atelectasis.  There is no pleural
+ effusion or pneumothorax.  Visualized osseous structures demonstrate no acute
+ abnormality.
+ 
+ IMPRESSION: 
+ 
+ Bibasilar atelectasis. No focal consolidation convincing for pneumonia.",there is a focal consolidation in the left upper lobe that it could be a due to pneumonia versus pneumonia. there is no definite large pleural effusion or pneumothorax. the heart is not enlarged. multiple rib fractures are demonstrated throughout the lung fields. cardiomediastinal silhouette is stable noting mild cardiomegaly. aortic knob is calcified
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17171812\s51939596\5d95b25c-7c395f38-d48c24fd-60aaad94-5d5a972d.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17171812\s51939596\5d95b25c-7c395f38-d48c24fd-60aaad94-5d5a972d.jpg,"WET READ: ___ ___ 8:43 AM
+  
+  
+  
+  Tracheostomy tube in place with multiple adjacent surgical ___.  Lung
+  volumes are low with crowding of the bronchovascular structures and
+  accentuation of the cardiac silhouette.  No pneumothorax seen.
+ WET READ VERSION #1 ___ ___ ___ 7:34 PM
+  Tracheostomy tube in place with multiple adjacent surgical ___. Lung
+  volumes are low with crowding of the bronchovascular structures and
+  accentuation of the cardiac silhouette.  No pneumothorax seen.
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old woman with t-tube placement.  // ? ptx
+ 
+ COMPARISON:  ___.
+ 
+ IMPRESSION: 
+ 
+ As compared to the previous radiograph, the lung volumes have decreased. 
+ There is unchanged evidence of bilateral basal areas of atelectasis.  Moderate
+ cardiomegaly.  Mild fluid overload persists.  The position of the endotracheal
+ tube is unchanged.","as compared to the previous radiograph, the patient has received a nasogastric tube. the tip of the tube projects over the middle parts of the stomach. no evidence of complications, notably no pneumothorax. unchanged position of the chest tube, a right internal jugular vein catheter. unchanged monitoring and support devices. unchanged appearance of the lung parenchyma."
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14566045\s50698910\62b8630d-9768087f-0716b37d-00c5b980-1009defa.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14566045\s50698910\62b8630d-9768087f-0716b37d-00c5b980-1009defa.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man with CAD and balloon pump  // balloon pump in
+ place? interval change
+ 
+ COMPARISON:  ___
+ 
+ IMPRESSION: 
+ 
+ As compared to the previous radiograph, the patient has received an
+ intra-aortic balloon pump. The tip of the pump is approximately 5-6 mm be low
+ the upper most part of the aortic arch.  No pneumothorax or other
+ complications. Normal size of the heart.  No pleural effusions.  No pulmonary
+ edema.",a right - sided port - a - cath ends in the mid svc. patient is status post median sternotomy and cabg. the lungs are hyperinflated. the cardiomediastinal silhouette is within normal limits. no pulmonary edema. no large effusion or pneumothorax. no focal consolidation to suggest pneumonia. a moderate right pleur
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14659758\s55168689\506aa35b-2f3d7015-e3873cad-49b5aa17-837d59d0.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14659758\s55168689\506aa35b-2f3d7015-e3873cad-49b5aa17-837d59d0.jpg,"FINAL REPORT
+ INDICATION:  ___ year old woman with etoh cirrhosis, confusion  // r/o
+ infection
+ 
+ TECHNIQUE:  Portable semi-upright AP chest
+ 
+ COMPARISON:  Chest radiographs ___ through ___
+ 
+ FINDINGS: 
+ 
+ Lung volumes are low as on the study of ___.  Mild atelectasis at
+ the left base is improved.  Mild right basilar atelectasis is unchanged. 
+ There is no evidence of new focal airspace opacity.  There is no large pleural
+ effusion or pneumothorax.  Heart size is normal.
+ 
+ IMPRESSION: 
+ 
+ Mild bibasilar atelectasis slightly improved at the left base.  Low lung
+ volumes.  No evidence of pneumonia.","there has been interval placement of a right - sided chest tube and left ij cordis. there is a small left pleural effusion. there is no pneumothorax. there is no focal consolidation. this is increased compared to the prior study, although increased ventilated with associated pleural fluid and compatible with right base of atelectasis is also present"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14012923\s53641710\04044d55-cbdeab5e-b21803c9-823c42d9-7b3e42e6.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14012923\s53641710\b4b8fc51-75999dd3-1ef0e038-917b1adb-19bbb62f.jpg,"FINAL REPORT
+ INDICATION:  ___-year-old female patient with cough.  Study requested to rule
+ out pneumonia.
+ 
+ COMPARISON:  Prior chest radiograph from ___.
+ 
+ TECHNIQUE:  PA and lateral chest radiograph.
+ 
+ FINDINGS:  The heart is normal in size.  The hilar and mediastinal contours
+ are within normal limits.  Lungs are well expanded and clear. There is no
+ evidence of pneumonia, pleural effusion, pneumothorax or pulmonary edema. 
+ Visualized osseous structures are grossly unremarkable.
+ 
+ IMPRESSION:  No radiographic evidence of an acute cardiopulmonary process.","frontal and lateral chest radiographs demonstrate a normal cardiomediastinal silhouette and well - aerated lungs without focal consolidation, pleural effusion, or pneumothorax. the visualized upper abdomen is unremarkable. a compression fracture projects over the upper thoracic spine. gastrojejunostomy is seen in the left lateral fifth posterior right cl"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11738518\s57160978\1d8351ff-dc2d0bf2-2b4820e4-efec60b0-326d8c13.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11738518\s57160978\1d8351ff-dc2d0bf2-2b4820e4-efec60b0-326d8c13.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old woman with nausea, vomiting, possible aspiration  //
+ eval for aspiration PNA or pneumonitis
+ 
+ TECHNIQUE:  Single frontal view of the chest
+ 
+ COMPARISON:  ___
+ 
+ IMPRESSION: 
+ 
+ Moderate cardiomegaly is stable. Right lower lobe opacity is less dense than
+ before. Retrocardiac opacity a combination of effusion and large atelectasis
+ is stable. If any there is a small right pleural effusion. There is no
+ pneumothorax. There are no new lung abnormalities to suggest aspiration.
+ Please see concurrent abdomen plain film for description of the abdominal
+ findings","frontal and lateral chest radiographs demonstrate an ng tube with tip extending to the region of the stomach with tip out of view. there is a right - sided internal jugular central venous catheter with tip in the right atrium. there is no pneumothorax. there are now mild bibasilar atelectasis, however the presence of a large right pleural"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15464490\s52016947\84c0de73-af02b6c0-55b09929-e355dc01-e710a117.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p15\p15464490\s52016947\84c0de73-af02b6c0-55b09929-e355dc01-e710a117.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old woman with new seizure  // ?infection      ?infection
+ 
+ COMPARISON:  There no prior chest radiographs available for review.
+ 
+ IMPRESSION: 
+ 
+ Lungs are well expanded and clear.  Cardiomediastinal and hilar silhouettes
+ and pleural surfaces are normal.","two portable frontal view of the chest shows no prior study. normal lung volumes limits despite the cardiomediastinal and hilar contours. there is no focal consolidation, pleural effusion or pneumothorax. the visualized osseous structures are unremarkable. no free air under the diaphragms. incidental note is made of"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13883863\s55616990\96caf65b-2ad37446-67508075-458e60dc-c062e433.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p13\p13883863\s55616990\e280431a-c84859bf-d084fa2e-9515a259-59f85d32.jpg,"FINAL REPORT
+ EXAMINATION:
+ Chest:  Frontal and lateral views
+ 
+ INDICATION:  History: ___M with HTN, adrenal adenoma, obesity, smoker who
+ presents with chest pain and normal EKG.  // evaluate for acute
+ cardiopulmonary process
+ 
+ TECHNIQUE:  Chest:  Frontal and Lateral
+ 
+ COMPARISON:  ___
+ 
+ FINDINGS: 
+ 
+ The cardiac and mediastinal silhouettes are stable.  There is mild prominence
+ of the central pulmonary vasculature suggesting vascular engorgement with
+ minimal vascular congestion, without overt pulmonary edema.  No pleural
+ effusion is seen.  There is no pneumothorax.  No definite focal consolidation
+ is seen.
+ 
+ IMPRESSION: 
+ 
+ Mild vascular congestion without overt pulmonary edema.  .",the cardiomediastinal silhouette and pulmonary vasculature are normal. there is no pleural effusion or pneumothorax. the lungs are well expanded and clear without focal consolidation concerning for pneumonia. pulmonary vasculature is within normal limits. the patient is status post cabg. the previously noted right picc line extends to the cavoatrial
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11290019\s50804227\95763ae2-b9913752-0b1a8497-adb6ffb5-1eebc602.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p11\p11290019\s50804227\e54f40f4-491f57fe-7f61bb69-f4c1fce1-175550a3.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST RADIOGRAPH ___
+ 
+ INDICATION:  History: ___M with shortnes of breath  // acute process?
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  Comparison is made to prior chest radiographs from ___.
+ 
+ FINDINGS: 
+ 
+ The lung volumes are slightly lower than on the prior study, accentuating
+ perihilar structures.  The cardiomediastinal silhouette is stable.  There is
+ no pleural effusion, pulmonary edema, or focal consolidation concerning for
+ pneumonia.  Multiple old left-sided rib fractures are again seen.
+ 
+ IMPRESSION: 
+ 
+ Low lung volumes.  Otherwise, no acute cardiopulmonary process.","the patient has been extubated and the prosthetic valve, are unchanged. heart size remains moderately enlarged, similar compared with the prior study. bilateral hila are unremarkable. right - sided pleural thickening is unchanged since the prior study, however, a small - to - moderate left pleural effusion persists with associated right basilar opacity."
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17804936\s57245351\a2b1fead-4041c37c-02bc1174-2ccf53ae-19edb80d.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17804936\s57245351\d015beb0-474f5fdc-21855762-d4637bcc-ee89fe2d.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PA AND LAT)
+ 
+ INDICATION:  ___F with recent falls will like to rule out infection  // ? acute
+ cardiopulmonary process
+ 
+ COMPARISON:  ___
+ 
+ FINDINGS: 
+ 
+ PA and lateral views of the chest provided.   Midline sternotomy wires are
+ again noted.  There is a left chest wall Port-A-Cath with its tip in the
+ region of the mid SVC.  Lungs are clear without focal consolidation, large
+ effusion or pneumothorax.  The cardiomediastinal silhouette is stable and
+ normal.  Imaged bony structures are intact.  No free air below the right
+ hemidiaphragm.
+ 
+ IMPRESSION: 
+ 
+ No acute intrathoracic process.","the heart size, mediastinal, and hilar contours are unremarkable. lungs are clear without focal consolidation. no pleural effusion or pneumothorax is seen. there are no acute osseous abnormalities. hypertrophic changes seen in the spine. no acute osseous abnormality is detected. right shoulder joint arthropathy is"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14512291\s57996688\5edc479e-13740af0-6aa5e039-842331fa-d8f2de02.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14512291\s57996688\5edc479e-13740af0-6aa5e039-842331fa-d8f2de02.jpg,"FINAL REPORT
+ INDICATION:  ___-year-old female with chest pain.  Evaluate for pneumonia.
+ 
+ TECHNIQUE:  Portable AP frontal chest radiograph was obtained.
+ 
+ COMPARISON:  CT from ___.
+ 
+ FINDINGS: 
+ 
+ The heart is mildly enlarged, and there is mild interstitial edema. No focal
+ consolidation, pleural effusion or pneumothorax seen.
+ 
+ IMPRESSION: 
+ 
+ Cardiomegaly with mild edema.",right - sided picc tip terminates in the mid svc. cardiac silhouette is mildly enlarged and accompanied by pulmonary vascular engorgement and perihilar pulmonary edema with increased interstitial pulmonary edema. there is no large pleural effusion or pneumothorax. no displaced rib fracture is seen. there are surgical clips in the abdomen and chest radiographs.
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16633692\s57796056\a9774715-002ccb6c-608ed964-55bfe8b8-cc162d61.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16633692\s57796056\eb6a2b59-1f03bcf3-dfd6b9b9-bf83548a-8e1b9c06.jpg,"FINAL REPORT
+ INDICATION:  History of intermittent chest pain.  Please evaluate for acute
+ process.
+ 
+ COMPARISONS:  Chest radiographs dated back to ___, most recently
+ from ___.
+ 
+ TECHNIQUE:  PA and lateral radiographs of the chest.
+ 
+ FINDINGS:  Mild cardiomegaly has slightly increased compared to the prior exam
+ from ___.  Mild bibasilar atelectasis is likely secondary to low
+ lung volumes.  The hilar and mediastinal contours are normal.  No focal
+ consolidations concerning for pneumonia are identified.  There is no pleural
+ effusion or pneumothorax.  The visualized osseous structures are unremarkable.
+ 
+ IMPRESSION:
+ 
+ 1.  Mild bibasilar atelectasis.
+ 
+ 2.  Mild cardiomegaly, slightly increased compared to the prior exam from
+ ___.
+ 
+ 3.  No focal consolidations concerning for pneumonia identified.",pa and lateral views of the chest provided. streaky bibasilar opacities likely represent atelectasis. there is no consolidation or edema. the cardiac silhouette is normal in size with normal cardiomediastinal silhouette. median sternotomy wires and wires and valve replacement. no free air below the right hemidiaphragm. clips are noted in the right ax
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16617005\s56338854\5c2b7a33-c4c5283c-175cfee0-2fd0eab2-ac63e2d5.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16617005\s56338854\5c2b7a33-c4c5283c-175cfee0-2fd0eab2-ac63e2d5.jpg,"FINAL REPORT
+ INDICATION:  ___ year old man with iph and sdh, intubated, line placement
+ attempt  // r/o pneumo
+ 
+ TECHNIQUE:  AP portable chest radiograph
+ 
+ COMPARISON:  ___ from earlier in the day
+ 
+ FINDINGS: 
+ 
+ The tip of the endotracheal tube projects over the mid thoracic trachea.
+ 
+ Again noted are bilateral calcified pleural plaques, consistent with prior
+ asbestos exposure.  There is new mild pulmonary vascular congestion and
+ ill-defined haziness over the left lower lung zone however no focal
+ consolidation is identified.  No pleural effusion or pneumothorax identified.
+ 
+ The size of the cardiac silhouette is within normal limits.  Calcification of
+ the aortic arch is visualized.
+ 
+ Remote appearing bilateral rib fractures.
+ 
+ IMPRESSION: 
+ 
+ Extensive bilateral calcified pleural plaques.
+ 
+ Mild pulmonary vascular congestion.  No pneumothorax identified.",a portable supine chest radiograph is obtained. a left - sided chest tube is in stable position. no pneumothorax is detected. small left pleural effusion has also unchanged. slight interval improvement in the amount of central venous catheter. mild cardiomegaly is unchanged. et tube terminates 2. 2 cm above the carina. enteric tube
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19442084\s55021341\9e6bb32e-bcdc3730-8f8b1ccb-9ee80cbd-61e5db4d.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19442084\s55021341\9e6bb32e-bcdc3730-8f8b1ccb-9ee80cbd-61e5db4d.jpg,"FINAL REPORT
+ HISTORY:  Lung cancer with febrile neutropenia.
+ 
+ FINDINGS:  In comparison with the study of ___, the cardiomediastinal
+ silhouette remains stable.  Opacification at the bases has increased.  It is
+ unclear whether this represents merely overlying soft tissues in the portable
+ projection, when compared to the previous upright PA view, or possible small
+ pleural effusions.  The known right lower lobe nodule is not clearly seen on
+ this study.  Otherwise, little change.","heart size is top - normal. the mediastinal and hilar contours are normal. the pulmonary vasculature is normal. no focal consolidation, pleural effusion or pneumothorax is identified. no free air is seen beneath the diaphragms. mild atelectasis is seen at the left lung base. no acute osseous abnormalities"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17270016\s55059009\925e7f18-fd79a154-88bde94c-980b5190-af60f67c.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17270016\s55059009\93b13afe-3c4a352d-01926369-e3f98bf7-e31ad3d8.jpg,"FINAL REPORT
+ INDICATION:  Palpitations.
+ 
+ COMPARISONS:  ___.
+ 
+ FINDINGS:
+ 
+ Frontal and lateral views of the chest demonstrate normal lung volumes.  There
+ is no pleural effusion, focal consolidation or pneumothorax.  Hilar and
+ mediastinal silhouettes are unremarkable.  Heart size is normal.  There is no
+ pulmonary edema.  Partially imaged upper abdomen is unremarkable.
+ 
+ IMPRESSION:
+ 
+ Normal chest.",the heart is normal in size. the mediastinal and hilar contours appear within normal limits. there is no pleural effusion or pneumothorax. the visualized osseous structures demonstrates no acute abnormality. the mediastinal and hilar contours appear within normal limits. mild degenerative changes are similar along the thoracic spine
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14076293\s55182746\d084fac4-a78428ab-c7a3f008-136b26b9-f6f340a4.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14076293\s55182746\d4531d2c-10cc916a-8e4a7e0b-404a2a9d-1ea172c3.jpg,"FINAL REPORT
+ HISTORY:  Syncope, head CPR performed.
+ 
+ TECHNIQUE:  Frontal and lateral views of the chest.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS:
+ 
+ No focal consolidation, pleural effusion, or evidence of pneumothorax is seen.
+ The cardiac and mediastinal silhouettes are unremarkable.  Nipple shadow is
+ noted on the right.  No displaced fracture is seen.  
+ 
+ IMPRESSION:
+ 
+ No acute cardiopulmonary process.  No displaced fracture seen.","frontal and lateral views of the chest were obtained. lungs are clear without focal consolidation, pleural effusion or pneumothorax. the cardiac and mediastinal silhouettes are unremarkable. there may be mild central pulmonary vascular engorgement without overt pulmonary edema. there is minimal bibasilar atelectasis. on the lateral view, there"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14792425\s54032322\435101f0-18f17ee5-228659b1-669af12b-7d2b25e6.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14792425\s54032322\435101f0-18f17ee5-228659b1-669af12b-7d2b25e6.jpg,"FINAL REPORT
+ CHEST RADIOGRAPH
+ 
+ INDICATION:  Decompensated chronic heart failure.
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS:  As compared to the previous radiograph, there is no relevant
+ change.  Venous introduction sheath in the right internal jugular vein. 
+ Moderate cardiomegaly, minimal atelectasis at the right lung base, moderate
+ atelectasis in the retrocardiac lung areas.  Mild pulmonary edema.  No
+ pneumothorax.","no previous images. cardiomediastinal silhouette is unchanged in the left mid and upper lungs. enlargement of the cardiac silhouette persists, though somewhat increased density suggesting congestive heart failure. opacification at the left base could reflect atelectasis, pneumonia or acute pneumonia.. marked compressive pericardial effusions. no evidence of acute pneumonia, vascular congestion"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16020842\s58713427\ff7b83b1-2f4ed023-0a0b3a08-fe4a94c7-17c0fdf2.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p16\p16020842\s58713427\ff7b83b1-2f4ed023-0a0b3a08-fe4a94c7-17c0fdf2.jpg,"FINAL REPORT
+ EXAMINATION:  Portable AP chest radiograph
+ 
+ INDICATION:  ___ year old man with as above // s/p AAA resection
+ w/reintubation-evaluate lung fields
+ 
+ COMPARISON:  Multiple chest radiographs from ___ and ___.
+ 
+ FINDINGS: 
+ 
+ ETT is in standard position.  Right internal jugular vein catheter tip is
+ unchanged in position. Left is PICC line upper SVC.  Bilateral consolidation,
+ greater on the right upper lung may reflect a component of edema in the
+ setting of mild pulmonary vascular engorgement and volume overload that is
+ overall unchanged. Possible superimposed pneumonia in the right upper lung
+ cannot be excluded as over the days, this consolidation is relatively stable,
+ less typical of pneumonia. Day-to-day changes in left consolidations are
+ likely edema.  Small left pleural effusions overall unchanged.  No
+ pneumothorax.  The heart size is normal.
+ 
+ IMPRESSION: 
+ 
+ 1. Moderate pulmonary edema, slightly worse.
+ 2. Persistent right upper lobe consolidation could be superimposed pneumonia.","the dobbhoff tube terminates in the stomach, and the gastric cavity. the et tube have been removed. bilateral lower lobe opacities have been likely reflecting improved interval. other tiny bilateral pleural effusions and fibrosis of the cardiomediastinal contour is unchanged. no pulmonary edema. no pneumothorax. new 2. 2."
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p18\p18614569\s51084396\34ec1171-8a318a8c-c43441a1-7510cf69-4f5a5a0d.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p18\p18614569\s51084396\9e8e1669-b99ec40a-ad88747b-6ba39807-1c08dce1.jpg,"FINAL REPORT
+ INDICATION:  Fever.
+ 
+ TECHNIQUE:  Two views of the chest.
+ 
+ COMPARISON:  Multiple prior examinations, most recent radiographs dated
+ ___.
+ 
+ FINDINGS:  No focal opacity to suggest pneumonia is seen.  No pleural
+ effusion, pulmonary edema, or pneumothorax is present.  There is a small
+ amount of atelectasis at the bases.  A subtle interstitial abnormality seen at
+ the bases has also previously been present.  The heart size is normal.
+ 
+ IMPRESSION:  No evidence of acute cardiopulmonary process.","left pigtail catheter tip projects over the right atrium and right ventricle. cardiac silhouette size appears mildly enlarged but unchanged. the mediastinal contours are unchanged. prominence of the right hilum and calcifications are similar to prior. previously identified surgical clips are noted along the right mediastinal opacities, not present in the interval. there are small bilateral pl"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14637100\s52585712\17a9f266-98bf8d0f-c92b51ff-a11304cb-38dee5f3.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14637100\s52585712\948843e3-df55a71d-ce98f0d0-49e7612d-d210009c.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PA AND LAT)
+ 
+ INDICATION:  ___F with on HD increase o2 requirment
+ 
+ COMPARISON:  ___.
+ 
+ FINDINGS: 
+ 
+ PA and lateral views of the chest provided.   There is interval progression of
+ pulmonary congestion and edema, now moderate to severe.  There is also
+ increased opacity in the left lower lobe which may represent a superimposed
+ pneumonia.  No large effusion or pneumothorax is seen.  The cardiomediastinal
+ silhouette appears grossly stable.  Bony structures are intact.
+ 
+ IMPRESSION: 
+ 
+ Moderate pulmonary edema and pulmonary vascular congestion.  Possible left
+ lower lobe consolidation could represent a superimposed pneumonia.  Followup
+ to resolution advised.",frontal and lateral views of the chest were obtained. lung volumes are low. there is atelectasis / scarring at the right lung base. linear opacity in the left lower lung may reflect atelectasis. no definite focal consolidation is seen. no pleural effusion or pneumothorax is seen. cardiac and mediastinal silhouettes are stable.
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19167068\s57444062\023f869d-be743bd5-9847528b-d9405d04-bddf5fa3.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p19\p19167068\s57444062\17974969-7eaa0f8c-209448e5-86dc58bc-7bf03bb3.jpg,"FINAL REPORT
+ CHEST RADIOGRAPHS
+ 
+ HISTORY:  Shortness of breath and fever.
+ 
+ COMPARISONS:  None.
+ 
+ TECHNIQUE:  Chest, PA and lateral.
+ 
+ FINDINGS:  The heart is normal in size.  The mediastinal and hilar contours
+ appear within normal limits.  There is no pleural effusion or pneumothorax. 
+ The lungs appear clear.  Bony structures appear within normal limits.
+ 
+ IMPRESSION:  No evidence of acute cardiopulmonary disease.",the lungs are clear of focal consolidation or large effusion. the cardiomediastinal silhouette is normal. osseous and soft tissue structures are unremarkable. there is no evidence of pneumoperitoneum. minimal pleural effusions are possible. 2 cm on the right anterior costophrenic angle is new since _ _ _. there is
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14990907\s55824452\faffceea-a35be057-c6304850-f85b0da6-1d0b7049.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14990907\s55824452\faffceea-a35be057-c6304850-f85b0da6-1d0b7049.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old man with CAD  s/p 3 units of pRBC and 2 units of FFP
+ with fluids. Feeling SOB.  // Concern for fluid overload.     Concern for
+ fluid overload.
+ 
+ IMPRESSION: 
+ 
+ In comparison with the study of ___, there is continued substantial
+ enlargement of the cardiac silhouette. There is increased prominence of
+ interstitial markings consistent with the clinical diagnosis of fluid
+ overload.
+ Single lead pacer again extends to the apex of the right ventricle.",lung volumes are low leading to crowding of the bronchovascular markings. bibasilar atelectasis is stable. there is no evidence of pneumonia or pulmonary edema. cardiomediastinal silhouette is stable. bony structures are intact. no free air below the right hemidiaphragm. no free air below the right hemidiaphragm. bibas
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17293739\s52908847\00b42218-21287d37-4b1e6c53-6a14384c-82f2e277.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17293739\s52908847\9e2edb93-849ebc1a-0ee85db2-746b5bd0-5ca6ca63.jpg,"FINAL REPORT
+ HISTORY:  Productive cough.  Evaluate for pneumonia.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS:
+ 
+ Frontal and lateral chest radiographs demonstrate low lung volumes and a heart
+ which is top-normal in size.  Other than mild bibasilar atelectasis, the lungs
+ are clear.  There is no pleural effusion or pneumothorax.  
+ 
+ IMPRESSION:
+ 
+ Low lung volumes and bibasilar atelectasis; otherwise normal chest radiograph.","lung volumes are slightly low, resulting in bronchovascular crowding. cardiomediastinal and hilar contours are unremarkable. the lungs are clear of consolidation or pleural effusion. osseous structures are within normal limits. no acute osseous abnormalities detected. there is no free air under the right hemidiaphragm. clips"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12950491\s50358577\517d3d58-c4a9240d-3c68e5f9-21b0be7e-54858bf7.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12950491\s50358577\bcc9173f-5df13d96-153c8dac-b9e8b3a9-904001ed.jpg,"FINAL REPORT
+ INDICATION:  Cough.
+ 
+ COMPARISONS:  None available.
+ 
+ FINDINGS: Frontal and lateral views of the chest demonstrate low lung volumes.
+ There is no pleural effusion or focal consolidation or pneumothorax.  Hilar
+ and mediastinal silhouettes are unremarkable.  Heart size is normal.  Left
+ lung base opacities are noted.  Partially imaged upper abdomen is
+ unremarkable.
+ 
+ IMPRESSION: Left lung base opacities may represent atelectasis or infection in
+ the appropriate clinical setting.  Low lung volumes.",the lungs are well inflated and clear. the cardiomediastinal silhouette and hilar contours are normal. there is no pleural effusion or pneumothorax. the visualized osseous structures are unremarkable. no evidence of pneumothorax or focal consolidation. there is no pulmonary edema. no visualized osse
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10008304\s50053244\68bdf27f-1354ec44-64222012-e565c33f-f38dc778.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10008304\s50053244\69ffcc3f-39812409-f0cdf20c-129b0c41-b681efc0.jpg,"FINAL REPORT
+ INDICATION:  ___-year-old male with fever and elevated lactate.
+ 
+ COMPARISON:  ___.
+ 
+ TECHNIQUE:  Frontal and lateral chest radiographs were obtained.
+ 
+ FINDINGS:  No focal consolidation, pleural effusion, pneumothorax, or
+ pulmonary edema is detected.  Heart and mediastinal contours are within normal
+ limits.  Aortic arch calcifications are seen.
+ 
+ IMPRESSION:  No radiographic evidence for acute cardiopulmonary process.","the heart size is normal. the mediastinal and hilar contours are unchanged. pulmonary vasculature is not engorged. hyperinflation again noted with flattening of the hemidiaphragms suggesting minimal atelectasis or scarring at the left lung base. there is mild scarring in the right mid lung, without focal consolidation. no pleur"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12075729\s51753811\16f1c97e-8ad6c5a6-9a6f5af0-2a6dc288-c9dff57a.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12075729\s51753811\eb95a6d6-7a0d60b8-a29aa6b6-e8b17af0-4ef14878.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PA AND LAT)
+ 
+ INDICATION:  ___F with ___, infx W/U  // PNA?
+ 
+ COMPARISON:  ___
+ 
+ FINDINGS: 
+ 
+ PA and lateral views of the chest provided.   The lungs are hyperinflated and
+ lucent suggesting emphysema.  The heart is mildly enlarged.  The mediastinal
+ contour is normal.  No convincing evidence for pneumonia or edema.  No
+ effusion or pneumothorax.  Bony structures are intact.  No free air below the
+ right hemidiaphragm.
+ 
+ IMPRESSION: 
+ 
+ Mild cardiomegaly, emphysema, no signs of pneumonia.","the patient is status post median sternotomy and cabg. heart size is mildly enlarged, stable since the _ _ _ radiograph. aorta is tortuous, with atherosclerotic calcifications noted at the thoracic aortic knob. mediastinal clips are noted. a large hiatal hernia is again noted, with stable elevation of the right"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12594793\s59169126\0d8133d6-84adfc36-d4e1dd93-1be55c9b-d0af2c14.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12594793\s59169126\0d8133d6-84adfc36-d4e1dd93-1be55c9b-d0af2c14.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old woman preop CAD  // eval preop      eval preop
+ 
+ IMPRESSION: 
+ 
+ Compared to chest radiograph ___.
+ 
+ Lungs fully expanded and clear.  Heart size top-normal.  No pneumothorax or
+ pleural effusion.","tracheostomy is seen. 5 cm above the carina. there is no focal consolidation, pleural effusion or pneumothorax. the heart size is normal. mediastinal silhouette and hilar contours are unremarkable. a nodular density projecting over the upper abdomen may be due to overlying soft tissue or bone island. the course of"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12388314\s53301096\0d358b52-ba588eab-3667654c-585a8b26-9ac74345.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p12\p12388314\s53301096\1484afae-892ddbb6-4db17b46-91f286ae-167260d8.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PA AND LAT)
+ 
+ INDICATION:  ___ year old woman s/p lumbar spine surgery, hx of CHF evaluate
+ for pulm edema,  // ? pulm edema,
+ 
+ COMPARISON:  ___
+ 
+ IMPRESSION: 
+ 
+ Cardiomediastinal contours are stable.  Lungs are clear except for small
+ calcified granuloma in the right mid lung, unchanged.  No pneumothorax or
+ substantial pleural effusion.","two frontal chest radiographs again demonstrates clear bilateral pleural effusions and unchanged bibasilar atelectasis. there is no pneumothorax. the heart is moderately enlarged, unchanged from prior examination. there is new right - sided central venous line with no significant change since the recent study of recent chest radiograph. sternal wires appear intact. conclusion : 2"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10696430\s52178644\abd6066a-fa41b048-96d25268-229a0664-ae3bb33b.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p10\p10696430\s52178644\c29204ed-c27c8950-e5103d9a-4a6cd12a-c8917aec.jpg,"FINAL REPORT
+ EXAMINATION:  Chest ray
+ 
+ INDICATION:  ___-year-old woman with rheumatoid arthritis flare and fevers.
+ 
+ TECHNIQUE:  Chest PA and lateral
+ 
+ COMPARISON:  Chest radiograph ___
+ 
+ FINDINGS: 
+ 
+ Cardiomediastinal silhouette is normal.  There is no pleural effusion or
+ pneumothorax.  There is no focal lung consolidation.
+ 
+ IMPRESSION: 
+ 
+ No evidence of pneumonia",the lungs are clear without focal consolidation. no pleural effusion or pneumothorax is seen. the cardiac and mediastinal silhouettes are stable and unremarkable. no pulmonary edema is seen. the aorta is tortuous and calcified. a compression deformity of several t vertebral body height. small anterior osteop
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17747028\s57392207\a28ae9c3-73646e09-cf3ff971-5327db51-82581a23.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17747028\s57392207\f0e2d885-3a9dc416-c119a91b-d3d0cc09-45f84dc9.jpg,"FINAL REPORT
+ HISTORY:  Chest tightness.
+ 
+ COMPARISON:  Chest radiograph from ___.
+ 
+ FINDINGS: The lungs are clear with no evidence of a consolidation, effusion,
+ or pneumothorax.  Cardiomediastinal silhouette is normal.  No acute fractures
+ are identified.
+ 
+ IMPRESSION: No acute cardiopulmonary process.","the cardiomediastinal and hilar contours are within normal limits. there is no focal consolidation, pleural effusion or pneumothorax. right chest wall pacing leads are in appropriate position. a small calcified granuloma at the left lung apex. the patient is status post right mastectomy and ossi surgery. no free air under"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14864908\s51334648\b27095ac-595fbc22-cbb621cd-62017418-e13e820f.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p14\p14864908\s51334648\db383863-05f4a21a-ef90c9a2-93cf929a-b49fe786.jpg,"FINAL REPORT
+ EXAMINATION:  CHEST (PORTABLE AP)
+ 
+ INDICATION:  ___ year old woman with, tachycardia, V overload  // tachycardia,
+ V overload
+ 
+ COMPARISON:  ___.
+ 
+ IMPRESSION: 
+ 
+ As compared to the previous radiograph, no relevant change is seen.  Moderate
+ cardiomegaly.  Mild fluid overload but no overt pulmonary edema.  No pleural
+ effusions.  No pneumonia.","the lung volumes are normal. moderate, enlargement of the cardiac silhouette, suggesting mild pulmonary edema. unchanged bilateral, most suggestive of pulmonary fibrosis. no larger pleural effusions. no pneumonia, no pulmonary edema. normal size of the cardiac silhouette. normal hilar and mediastinal contours. normal appearance of the lung parenchyma, and"
+D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17950066\s59393382\2f2da075-115e38d3-86ffe905-11aa8a04-1a1c3bd5.jpg,D:\fyp_manish_shyam\archive\mimic-cxr-dataset\official_data_iccv_final\files\p17\p17950066\s59393382\6959272a-763b63d8-c56e93df-f027c04f-c79b9e51.jpg,"FINAL REPORT
+ HISTORY:  Infiltrate seen on x-ray earlier this month with some chest
+ congestion. Rule out infiltrate.
+ 
+ COMPARISON:  None available.
+ 
+ TECHNIQUE:  Upright AP and lateral chest radiographs.  
+ 
+ FINDINGS:
+ 
+ There are increased bibasilar opacities, left greater than right. There is
+ blunting of the right posterior costophrenic angle, likely related to pleural
+ fluid. Evaluation of the cardiac silhouette is limited by overlying opacities.
+ Upper lungs are well aerated.  There is no pneumothorax. 
+ 
+ IMPRESSION: 
+ 
+ 1. Left greater than right bibasilar opacities, potentially due to
+ atelectasis, a component of infection, although chronic process is also
+ possible. Correlation with priors would be helpful. Repeat evaluation is
+ recommended upon completion of treatment.
+ 
+ 2. Right sided pleural effusion.",patient is status post median sternotomy. cardiac silhouette size is unchanged and top normal. mediastinal and hilar contours are stable. pulmonary vasculature is normal. minimal atelectasis is seen in the left lower lung without new focal consolidation. no pleural effusion or pneumothorax is demonstrated. no acute osseous abnormalities seen.

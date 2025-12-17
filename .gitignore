@@ -1,0 +1,10 @@
+archive/
+.venv/
+venv/
+.ipynb_checkpoints/
+logs/
+saved_models/
+*.pkl
+*.zip
+*.pth
+*.pt
