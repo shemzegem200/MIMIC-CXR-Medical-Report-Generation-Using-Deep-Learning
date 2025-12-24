@@ -5,6 +5,9 @@ This repository provides the **codebase** for a **PyTorch encoder–decoder mode
 📌 **Pretrained model weights are hosted on Hugging Face:**  
 https://huggingface.co/shemzegem/mimic-cxr-report-generator
 
+📌 **Additional resources such as pickle file, adjacency matrix, model, grouped dataframe are in the following drive link:** 
+https://drive.google.com/drive/folders/1DThVS3wzvL9EbdtBQjFHEWIO8ilqLrvz?usp=sharing
+
 This GitHub repository focuses on:
 - Model architecture and implementation
 - Inference and evaluation code
